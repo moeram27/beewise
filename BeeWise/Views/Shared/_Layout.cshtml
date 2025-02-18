@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BeeWise</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BeeWise.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <div class="logo-div">
+            <button class="mobile-burger-menu burger-menu" onclick="toggleSideBar(this)">
+                <img src="/images/header-items/burger-menu.svg" alt="">
+            </button>
+            <img class="logo" src="/images/logos/logo.png">
+            <div class="divider"></div>
+            <div class="gs-lang-menu">
+                <div class="lang-dropdown-wrapper ">
+                    <button class="gs-selected-lang" onclick="openLangMenu(this)"><span>EN</span></button>
+                </div>
+                <ul class="gs-langs-wrapper">
+                    <li class="gs-lang">
+                        <a href="">AR</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="user-options-div">
+            <!-- <button class="get-started-button">
+                Get Started
+            </button> -->
+            <div class="user-info">
+                <div class="profile-photo">
+                    <img src="/images/header-items/profile-pic.png" alt="">
+                </div>
+                <div class="username">
+                    <p>Fouad Hariss</p>
+                </div>
+                <button class="burger-menu" onclick="toggleSideBar(this)">
+                    <img src="/images/header-items/burger-menu.svg" alt="">
+                </button>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-logo">
+                <img src="/images/logos/logo.png" alt="Beewise Logo" />
+            </div>
+            <div class="footer-links">
+                <a href="/about-us">About Us</a>
+                <a href="/contact-us">Contact Us</a>
+                <a href="/privacy-policy">Privacy Policy</a>
+                <a href="/terms-and-conditions">Terms & Conditions</a>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
