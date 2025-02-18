@@ -32,3 +32,4 @@ C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\refint\BeeWise.dll
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.pdb
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.genruntimeconfig.cache
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\ref\BeeWise.dll
+C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.sourcelink.json

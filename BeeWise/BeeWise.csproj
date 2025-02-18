@@ -6,4 +6,44 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Assets\Images\background.png" />
+    <None Include="wwwroot\Assets\Images\badge-icons\badge-check-icon.png" />
+    <None Include="wwwroot\Assets\Images\badge-icons\info-icon.png" />
+    <None Include="wwwroot\Assets\Images\categories-icons\creativity-category-icon.svg" />
+    <None Include="wwwroot\Assets\Images\categories-icons\emotional-category-icon.svg" />
+    <None Include="wwwroot\Assets\Images\categories-icons\iq-category-icon.svg" />
+    <None Include="wwwroot\Assets\Images\categories-icons\personality-category-icon.svg" />
+    <None Include="wwwroot\Assets\Images\header-items\arrow.png" />
+    <None Include="wwwroot\Assets\Images\header-items\burger-menu.svg" />
+    <None Include="wwwroot\Assets\Images\header-items\close-burgermenu-icon.png" />
+    <None Include="wwwroot\Assets\Images\header-items\profile-pic.png" />
+    <None Include="wwwroot\Assets\Images\leaderboard-icons\progress-pointer.png" />
+    <None Include="wwwroot\Assets\Images\leaderboard-icons\second-scorer-icon.png" />
+    <None Include="wwwroot\Assets\Images\leaderboard-icons\third-scorer-icon.png" />
+    <None Include="wwwroot\Assets\Images\leaderboard-icons\top-scorer-icon.png" />
+    <None Include="wwwroot\Assets\Images\list-icons\list-check-icon-premium.png" />
+    <None Include="wwwroot\Assets\Images\list-icons\list-check-icon.png" />
+    <None Include="wwwroot\Assets\Images\logos\Group 8.png" />
+    <None Include="wwwroot\Assets\Images\logos\inline-logo.png" />
+    <None Include="wwwroot\Assets\Images\logos\logo.png" />
+    <None Include="wwwroot\Assets\Images\scorers\scorer1.png" />
+    <None Include="wwwroot\Assets\Images\scorers\scorer2.png" />
+    <None Include="wwwroot\Assets\Images\scorers\top-scorer.png" />
+    <None Include="wwwroot\Assets\Images\service-icons\info-card-icon1.png" />
+    <None Include="wwwroot\Assets\Images\service-icons\info-card-icon2.png" />
+    <None Include="wwwroot\Assets\Images\service-icons\info-card-icon3.png" />
+    <None Include="wwwroot\Assets\Images\service-icons\info-card-icon4.png" />
+    <None Include="wwwroot\Assets\Images\sidebar-icons\sidebar-icon-1.png" />
+    <None Include="wwwroot\Assets\Images\sidebar-icons\sidebar-icon-2.png" />
+    <None Include="wwwroot\Assets\Images\sidebar-icons\sidebar-icon-3.png" />
+    <None Include="wwwroot\Assets\Images\sidebar-icons\sidebar-icon-4.png" />
+    <None Include="wwwroot\Assets\Images\sidebar-icons\sidebar-icon-5.png" />
+    <None Include="wwwroot\Assets\Images\sidebar-icons\sidebar-idcon-beehive.png" />
+    <None Include="wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-1.png" />
+    <None Include="wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-2.png" />
+    <None Include="wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-3.png" />
+    <None Include="wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-4.png" />
+  </ItemGroup>
+
 </Project>

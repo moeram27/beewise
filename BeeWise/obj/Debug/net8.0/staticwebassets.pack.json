@@ -5,6 +5,154 @@
       "PackagePath": "staticwebassets\\BeeWise.xsettdoe5w.bundle.scp.css"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\background.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\background.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\badge-check-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\badge-icons\\badge-check-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\info-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\badge-icons\\info-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\creativity-category-icon.svg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\categories-icons\\creativity-category-icon.svg"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\emotional-category-icon.svg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\categories-icons\\emotional-category-icon.svg"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\iq-category-icon.svg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\categories-icons\\iq-category-icon.svg"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\personality-category-icon.svg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\categories-icons\\personality-category-icon.svg"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\arrow.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\header-items\\arrow.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\burger-menu.svg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\header-items\\burger-menu.svg"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\close-burgermenu-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\header-items\\close-burgermenu-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\profile-pic.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\header-items\\profile-pic.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\progress-pointer.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\leaderboard-icons\\progress-pointer.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\second-scorer-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\leaderboard-icons\\second-scorer-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\third-scorer-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\leaderboard-icons\\third-scorer-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\top-scorer-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\leaderboard-icons\\top-scorer-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon-premium.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\list-icons\\list-check-icon-premium.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\list-icons\\list-check-icon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\Group 8.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\logos\\Group 8.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\inline-logo.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\logos\\inline-logo.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\logos\\logo.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\scorers\\scorer1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer2.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\scorers\\scorer2.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\top-scorer.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\scorers\\top-scorer.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\service-icons\\info-card-icon1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon2.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\service-icons\\info-card-icon2.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon3.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\service-icons\\info-card-icon3.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon4.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\service-icons\\info-card-icon4.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\sidebar-icons\\sidebar-icon-1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-2.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\sidebar-icons\\sidebar-icon-2.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-3.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\sidebar-icons\\sidebar-icon-3.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-4.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\sidebar-icons\\sidebar-icon-4.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-5.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\sidebar-icons\\sidebar-icon-5.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-idcon-beehive.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\sidebar-icons\\sidebar-idcon-beehive.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\subcategory-icons\\subcategpry-icon-1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-2.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\subcategory-icons\\subcategpry-icon-2.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-3.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\subcategory-icons\\subcategpry-icon-3.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-4.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\subcategory-icons\\subcategpry-icon-4.png"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

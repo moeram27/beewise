@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1D6Q+qi1qlmsODxbqIx2iVvMW314vGRkcKZbr0ZIiKY=",
+  "Hash": "/TEfiYUT091u1nha8BKhGIDp7qG83F/wzAVTYSHHDR0=",
   "Source": "BeeWise",
   "BasePath": "_content/BeeWise",
   "Mode": "Default",
@@ -59,6 +59,783 @@
       "OriginalItemSpec": "C:\\dev\\src\\BeeWise\\BeeWise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BeeWise.bundle.scp.css"
     },
     {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\background.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b5vfbj6z46",
+      "Integrity": "kX1n6GFPPRKQKPtaG80dc6Pf3uTsLrsgG4MPK7K/WWo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\background.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\badge-check-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/badge-icons/badge-check-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ak4gyt3co5",
+      "Integrity": "GqGLSCJfuOUwLu4/2ci3M+Jhl6pNYdZHCtGbyxbFT+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\badge-icons\\badge-check-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\info-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/badge-icons/info-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3gt7xl3ewj",
+      "Integrity": "03WTlTyjgVBFVMWlE26OLCC8fzU3d9j+O/JYfJOoBm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\badge-icons\\info-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\creativity-category-icon.svg",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/categories-icons/creativity-category-icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zwlb0a1kt4",
+      "Integrity": "TUR00VvFgCj/dI3zcDxT+6KBJmXog/nNfKP92QPp3V0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\categories-icons\\creativity-category-icon.svg"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\emotional-category-icon.svg",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/categories-icons/emotional-category-icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efck3iclpo",
+      "Integrity": "Fhncnc1rw4jPv61t9Rd90r5GqITw5r/9K8+1un2HbdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\categories-icons\\emotional-category-icon.svg"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\iq-category-icon.svg",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/categories-icons/iq-category-icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ymrhvyv64w",
+      "Integrity": "Kl1ddr9Yp19rPWPnYKb+Cm2yEymxQkcY5OEHkhoAzLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\categories-icons\\iq-category-icon.svg"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\personality-category-icon.svg",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/categories-icons/personality-category-icon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uolrl3yjvh",
+      "Integrity": "cljAQxsJMN2xK+lBHNWqv2R0VeI6+CpfjmrIOiVqeBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\categories-icons\\personality-category-icon.svg"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\arrow.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/header-items/arrow#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2im6ud37uz",
+      "Integrity": "atkaLhqey3Z9vMCcKz5tLd9w8s5SOYr63QsT/sRLYzI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\header-items\\arrow.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\burger-menu.svg",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/header-items/burger-menu#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32kqt3avds",
+      "Integrity": "9Y4I9zfp6TiTpdYNFG4+IZEF23d1UVX1JMGJglZDM50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\header-items\\burger-menu.svg"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\close-burgermenu-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/header-items/close-burgermenu-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oj0wmgfod9",
+      "Integrity": "PC9y0fq3lZ+3a8SS8OkVDxX1w0+S1iQYR6TFaUCgj6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\header-items\\close-burgermenu-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\profile-pic.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/header-items/profile-pic#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "znk4mjjbrr",
+      "Integrity": "YcwMvDTwHhCBWA54yGqQ/86MwEthl4ljl8iE6Ctz7bI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\header-items\\profile-pic.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\progress-pointer.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/leaderboard-icons/progress-pointer#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ypxgh6fh57",
+      "Integrity": "tseELbsOOvAM5AJtn9ZNhwlv/KZH+p7T00FGrTUd8G4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\leaderboard-icons\\progress-pointer.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\second-scorer-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/leaderboard-icons/second-scorer-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hir0lkgt5b",
+      "Integrity": "ty/x8TQGKpmur1B3qMqWCOZzI6+5+pda3jGyBz8YPog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\leaderboard-icons\\second-scorer-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\third-scorer-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/leaderboard-icons/third-scorer-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5huwkv1tea",
+      "Integrity": "SSI0FJfrD5QnOf8tCYh3PTwc9bz7it5ys5yFyQrqmTw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\leaderboard-icons\\third-scorer-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\top-scorer-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/leaderboard-icons/top-scorer-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v4akz6djrz",
+      "Integrity": "T9sYb0P5nyVbG6rWoYcfbP3eoxFXqok2XmAfwwDbM8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\leaderboard-icons\\top-scorer-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/list-icons/list-check-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "08xvaiyn9p",
+      "Integrity": "8GuruKeBaJARvyH1SqVoo1rbO3mEv5WDq1WREeZXLO0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\list-icons\\list-check-icon.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon-premium.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/list-icons/list-check-icon-premium#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8i5xb3yzrz",
+      "Integrity": "IFFLBX0eXmZtPpnSMxa0vPy1Ja+Wx1miiMDvXeVRrCc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\list-icons\\list-check-icon-premium.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\Group 8.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/logos/Group 8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ypjle29vh5",
+      "Integrity": "Fr1BGuCsvaUjY3z721/0p7Wmtl0NKexNBocaAOcX070=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\logos\\Group 8.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\inline-logo.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/logos/inline-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bqz78aqsn6",
+      "Integrity": "XT+t6eDkizfSWhe8L6NSKJMCIQlA7CZ7MRX69YlEoc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\logos\\inline-logo.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\logo.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/logos/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2bzw9ec2f",
+      "Integrity": "xeZIwEmhYYwwhyZBQoURUDjjXN6pF02HrMWlRw2N3vM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\logos\\logo.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer1.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/scorers/scorer1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9jod3rn5o6",
+      "Integrity": "dZwXkTXQqRJlbghYCqB1Up4gOvsZDxncjc6qHGf/nDk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\scorers\\scorer1.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer2.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/scorers/scorer2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m9hpoqe8s6",
+      "Integrity": "VjwpAgJFBuOq23OBriI9xS81LNN9XiuyzzamvlCbP7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\scorers\\scorer2.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\top-scorer.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/scorers/top-scorer#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpjyz33n7u",
+      "Integrity": "SnfNB4+eiHFvtdeQuveJpEZ8k4p0VEV5bchyf2+WSv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\scorers\\top-scorer.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon1.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/service-icons/info-card-icon1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vpa5uhd5m0",
+      "Integrity": "fWiF9tou1QTMQZosiOcaL1BwEslIc32pWIjWL/XGE4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\service-icons\\info-card-icon1.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon2.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/service-icons/info-card-icon2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bqcnqntt5h",
+      "Integrity": "zTmlTGoWQHah1E/UO7QWgQpNBfD4+ZRQc6XEIwHkI7s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\service-icons\\info-card-icon2.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon3.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/service-icons/info-card-icon3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vaeg9znnob",
+      "Integrity": "mQ7D7inGgiqHNwAsM74Z2n2JN3/cFeYbrinZySWwRuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\service-icons\\info-card-icon3.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon4.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/service-icons/info-card-icon4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o01x9lmuw3",
+      "Integrity": "aICwWYLxJIoyvROhlOqK524RhPjX8i+RG4BjWZhnhow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\service-icons\\info-card-icon4.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-1.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/sidebar-icons/sidebar-icon-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dk6unck7j2",
+      "Integrity": "Q1yh/qb3+9SneKa6IIpJJgDNre3qOZnoApj+psBrCyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-1.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-2.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/sidebar-icons/sidebar-icon-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oq9fmzso5j",
+      "Integrity": "8B4gFLRCaqK8CSTLDcar9qN7D+xI+JrjEGBnqxV8tK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-2.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-3.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/sidebar-icons/sidebar-icon-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2o5n7yik6",
+      "Integrity": "FZxoe7FevjRZKdoh+PbTUuDIqzIBVMC3OBC9FFq6eV4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-3.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-4.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/sidebar-icons/sidebar-icon-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxd53okksp",
+      "Integrity": "yVhKJS1v7WhmcZWApTY6QQ1tHydnZNgCRgUzCYGJohQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-4.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-5.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/sidebar-icons/sidebar-icon-5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pbzt69uoe0",
+      "Integrity": "FcJmAWux3Lsby777LJ+0AatsHa7XGREIBnn7mZJIUcc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-5.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-idcon-beehive.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/sidebar-icons/sidebar-idcon-beehive#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ehdczgizde",
+      "Integrity": "vg0V2M4Baivc21wVktL0Irtyd2joGQysl3l9vX3Pb1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-idcon-beehive.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-1.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/subcategory-icons/subcategpry-icon-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dth15o5681",
+      "Integrity": "j5rSYLK1HmK2UcWPRdBrjNWRbBw+3aVSdeYDjpkrSOc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-1.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-2.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/subcategory-icons/subcategpry-icon-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kn277zngdu",
+      "Integrity": "MEyAo4mzr1MJw3jiadNjMclfHQ9o/Rq5c14D/uS0tkA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-2.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-3.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/subcategory-icons/subcategpry-icon-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "29so7cvcq4",
+      "Integrity": "+lOzn8LqBz3pvkzwz2viX5Gv9to98FxCzlxTqlUO0V8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-3.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-4.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/subcategory-icons/subcategpry-icon-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "82ozx4443o",
+      "Integrity": "cApmlNsNtP/Hw7wAmuXuYUgkw7M9ojIZj5oD6matOxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-4.png"
+    },
+    {
       "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
       "SourceId": "BeeWise",
       "SourceType": "Discovered",
@@ -73,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "jz7p2qt38i",
+      "Integrity": "r24ZuKe5LNY3tz2hLD73otj5xYxOt+WYd/6KLg5q3Cw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -115,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "bfatmf5wgl",
+      "Integrity": "+WNQjiz7TGv6LesrgjrW/ERTS5GeWBjh35T7KgIQg+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1321,6 +2098,3040 @@
   ],
   "Endpoints": [
     {
+      "Route": "Assets/Images/background.b5vfbj6z46.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kX1n6GFPPRKQKPtaG80dc6Pf3uTsLrsgG4MPK7K/WWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 10:23:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b5vfbj6z46"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kX1n6GFPPRKQKPtaG80dc6Pf3uTsLrsgG4MPK7K/WWo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/background.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kX1n6GFPPRKQKPtaG80dc6Pf3uTsLrsgG4MPK7K/WWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 10:23:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kX1n6GFPPRKQKPtaG80dc6Pf3uTsLrsgG4MPK7K/WWo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/badge-icons/badge-check-icon.ak4gyt3co5.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\badge-check-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GqGLSCJfuOUwLu4/2ci3M+Jhl6pNYdZHCtGbyxbFT+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ak4gyt3co5"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/badge-icons/badge-check-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GqGLSCJfuOUwLu4/2ci3M+Jhl6pNYdZHCtGbyxbFT+M="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/badge-icons/badge-check-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\badge-check-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GqGLSCJfuOUwLu4/2ci3M+Jhl6pNYdZHCtGbyxbFT+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GqGLSCJfuOUwLu4/2ci3M+Jhl6pNYdZHCtGbyxbFT+M="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/badge-icons/info-icon.3gt7xl3ewj.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\info-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"03WTlTyjgVBFVMWlE26OLCC8fzU3d9j+O/JYfJOoBm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gt7xl3ewj"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/badge-icons/info-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-03WTlTyjgVBFVMWlE26OLCC8fzU3d9j+O/JYfJOoBm4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/badge-icons/info-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\badge-icons\\info-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"03WTlTyjgVBFVMWlE26OLCC8fzU3d9j+O/JYfJOoBm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-03WTlTyjgVBFVMWlE26OLCC8fzU3d9j+O/JYfJOoBm4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/creativity-category-icon.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\creativity-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUR00VvFgCj/dI3zcDxT+6KBJmXog/nNfKP92QPp3V0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:42:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUR00VvFgCj/dI3zcDxT+6KBJmXog/nNfKP92QPp3V0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/creativity-category-icon.zwlb0a1kt4.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\creativity-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUR00VvFgCj/dI3zcDxT+6KBJmXog/nNfKP92QPp3V0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:42:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zwlb0a1kt4"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/categories-icons/creativity-category-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUR00VvFgCj/dI3zcDxT+6KBJmXog/nNfKP92QPp3V0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/emotional-category-icon.efck3iclpo.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\emotional-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fhncnc1rw4jPv61t9Rd90r5GqITw5r/9K8+1un2HbdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:41:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efck3iclpo"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/categories-icons/emotional-category-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fhncnc1rw4jPv61t9Rd90r5GqITw5r/9K8+1un2HbdY="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/emotional-category-icon.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\emotional-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fhncnc1rw4jPv61t9Rd90r5GqITw5r/9K8+1un2HbdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:41:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fhncnc1rw4jPv61t9Rd90r5GqITw5r/9K8+1un2HbdY="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/iq-category-icon.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\iq-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kl1ddr9Yp19rPWPnYKb+Cm2yEymxQkcY5OEHkhoAzLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:17:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kl1ddr9Yp19rPWPnYKb+Cm2yEymxQkcY5OEHkhoAzLw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/iq-category-icon.ymrhvyv64w.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\iq-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kl1ddr9Yp19rPWPnYKb+Cm2yEymxQkcY5OEHkhoAzLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 12:17:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ymrhvyv64w"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/categories-icons/iq-category-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kl1ddr9Yp19rPWPnYKb+Cm2yEymxQkcY5OEHkhoAzLw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/personality-category-icon.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\personality-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cljAQxsJMN2xK+lBHNWqv2R0VeI6+CpfjmrIOiVqeBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:40:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cljAQxsJMN2xK+lBHNWqv2R0VeI6+CpfjmrIOiVqeBQ="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/categories-icons/personality-category-icon.uolrl3yjvh.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\categories-icons\\personality-category-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cljAQxsJMN2xK+lBHNWqv2R0VeI6+CpfjmrIOiVqeBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:40:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uolrl3yjvh"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/categories-icons/personality-category-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cljAQxsJMN2xK+lBHNWqv2R0VeI6+CpfjmrIOiVqeBQ="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/arrow.2im6ud37uz.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\arrow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"atkaLhqey3Z9vMCcKz5tLd9w8s5SOYr63QsT/sRLYzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:17:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2im6ud37uz"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/header-items/arrow.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-atkaLhqey3Z9vMCcKz5tLd9w8s5SOYr63QsT/sRLYzI="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/arrow.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\arrow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"atkaLhqey3Z9vMCcKz5tLd9w8s5SOYr63QsT/sRLYzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:17:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-atkaLhqey3Z9vMCcKz5tLd9w8s5SOYr63QsT/sRLYzI="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/burger-menu.32kqt3avds.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\burger-menu.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Y4I9zfp6TiTpdYNFG4+IZEF23d1UVX1JMGJglZDM50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 15:52:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32kqt3avds"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/header-items/burger-menu.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Y4I9zfp6TiTpdYNFG4+IZEF23d1UVX1JMGJglZDM50="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/burger-menu.svg",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\burger-menu.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Y4I9zfp6TiTpdYNFG4+IZEF23d1UVX1JMGJglZDM50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 15:52:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Y4I9zfp6TiTpdYNFG4+IZEF23d1UVX1JMGJglZDM50="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/close-burgermenu-icon.oj0wmgfod9.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\close-burgermenu-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PC9y0fq3lZ+3a8SS8OkVDxX1w0+S1iQYR6TFaUCgj6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 14:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oj0wmgfod9"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/header-items/close-burgermenu-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PC9y0fq3lZ+3a8SS8OkVDxX1w0+S1iQYR6TFaUCgj6I="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/close-burgermenu-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\close-burgermenu-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PC9y0fq3lZ+3a8SS8OkVDxX1w0+S1iQYR6TFaUCgj6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 14:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PC9y0fq3lZ+3a8SS8OkVDxX1w0+S1iQYR6TFaUCgj6I="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/profile-pic.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\profile-pic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcwMvDTwHhCBWA54yGqQ/86MwEthl4ljl8iE6Ctz7bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 15:54:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcwMvDTwHhCBWA54yGqQ/86MwEthl4ljl8iE6Ctz7bI="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/header-items/profile-pic.znk4mjjbrr.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\header-items\\profile-pic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcwMvDTwHhCBWA54yGqQ/86MwEthl4ljl8iE6Ctz7bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 15:54:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "znk4mjjbrr"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/header-items/profile-pic.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcwMvDTwHhCBWA54yGqQ/86MwEthl4ljl8iE6Ctz7bI="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/progress-pointer.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\progress-pointer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tseELbsOOvAM5AJtn9ZNhwlv/KZH+p7T00FGrTUd8G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tseELbsOOvAM5AJtn9ZNhwlv/KZH+p7T00FGrTUd8G4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/progress-pointer.ypxgh6fh57.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\progress-pointer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tseELbsOOvAM5AJtn9ZNhwlv/KZH+p7T00FGrTUd8G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 08:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ypxgh6fh57"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/leaderboard-icons/progress-pointer.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tseELbsOOvAM5AJtn9ZNhwlv/KZH+p7T00FGrTUd8G4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/second-scorer-icon.hir0lkgt5b.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\second-scorer-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ty/x8TQGKpmur1B3qMqWCOZzI6+5+pda3jGyBz8YPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:10:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hir0lkgt5b"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/leaderboard-icons/second-scorer-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ty/x8TQGKpmur1B3qMqWCOZzI6+5+pda3jGyBz8YPog="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/second-scorer-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\second-scorer-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ty/x8TQGKpmur1B3qMqWCOZzI6+5+pda3jGyBz8YPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:10:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ty/x8TQGKpmur1B3qMqWCOZzI6+5+pda3jGyBz8YPog="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/third-scorer-icon.5huwkv1tea.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\third-scorer-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSI0FJfrD5QnOf8tCYh3PTwc9bz7it5ys5yFyQrqmTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5huwkv1tea"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/leaderboard-icons/third-scorer-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSI0FJfrD5QnOf8tCYh3PTwc9bz7it5ys5yFyQrqmTw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/third-scorer-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\third-scorer-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSI0FJfrD5QnOf8tCYh3PTwc9bz7it5ys5yFyQrqmTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSI0FJfrD5QnOf8tCYh3PTwc9bz7it5ys5yFyQrqmTw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/top-scorer-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\top-scorer-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T9sYb0P5nyVbG6rWoYcfbP3eoxFXqok2XmAfwwDbM8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T9sYb0P5nyVbG6rWoYcfbP3eoxFXqok2XmAfwwDbM8I="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/leaderboard-icons/top-scorer-icon.v4akz6djrz.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\top-scorer-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T9sYb0P5nyVbG6rWoYcfbP3eoxFXqok2XmAfwwDbM8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v4akz6djrz"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/leaderboard-icons/top-scorer-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T9sYb0P5nyVbG6rWoYcfbP3eoxFXqok2XmAfwwDbM8I="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/list-icons/list-check-icon.08xvaiyn9p.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8GuruKeBaJARvyH1SqVoo1rbO3mEv5WDq1WREeZXLO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 13:44:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08xvaiyn9p"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/list-icons/list-check-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8GuruKeBaJARvyH1SqVoo1rbO3mEv5WDq1WREeZXLO0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/list-icons/list-check-icon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8GuruKeBaJARvyH1SqVoo1rbO3mEv5WDq1WREeZXLO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 13:44:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8GuruKeBaJARvyH1SqVoo1rbO3mEv5WDq1WREeZXLO0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/list-icons/list-check-icon-premium.8i5xb3yzrz.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon-premium.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IFFLBX0eXmZtPpnSMxa0vPy1Ja+Wx1miiMDvXeVRrCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 13:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8i5xb3yzrz"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/list-icons/list-check-icon-premium.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IFFLBX0eXmZtPpnSMxa0vPy1Ja+Wx1miiMDvXeVRrCc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/list-icons/list-check-icon-premium.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\list-icons\\list-check-icon-premium.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IFFLBX0eXmZtPpnSMxa0vPy1Ja+Wx1miiMDvXeVRrCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 13:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IFFLBX0eXmZtPpnSMxa0vPy1Ja+Wx1miiMDvXeVRrCc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/logos/Group 8.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\Group 8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fr1BGuCsvaUjY3z721/0p7Wmtl0NKexNBocaAOcX070=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 09:36:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fr1BGuCsvaUjY3z721/0p7Wmtl0NKexNBocaAOcX070="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/logos/Group 8.ypjle29vh5.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\Group 8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fr1BGuCsvaUjY3z721/0p7Wmtl0NKexNBocaAOcX070=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 09:36:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ypjle29vh5"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/logos/Group 8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fr1BGuCsvaUjY3z721/0p7Wmtl0NKexNBocaAOcX070="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/logos/inline-logo.bqz78aqsn6.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\inline-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XT+t6eDkizfSWhe8L6NSKJMCIQlA7CZ7MRX69YlEoc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 08:45:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqz78aqsn6"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/logos/inline-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XT+t6eDkizfSWhe8L6NSKJMCIQlA7CZ7MRX69YlEoc0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/logos/inline-logo.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\inline-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XT+t6eDkizfSWhe8L6NSKJMCIQlA7CZ7MRX69YlEoc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 08:45:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XT+t6eDkizfSWhe8L6NSKJMCIQlA7CZ7MRX69YlEoc0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/logos/logo.d2bzw9ec2f.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeZIwEmhYYwwhyZBQoURUDjjXN6pF02HrMWlRw2N3vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 10:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2bzw9ec2f"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/logos/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeZIwEmhYYwwhyZBQoURUDjjXN6pF02HrMWlRw2N3vM="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/logos/logo.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeZIwEmhYYwwhyZBQoURUDjjXN6pF02HrMWlRw2N3vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 10:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeZIwEmhYYwwhyZBQoURUDjjXN6pF02HrMWlRw2N3vM="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/scorers/scorer1.9jod3rn5o6.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZwXkTXQqRJlbghYCqB1Up4gOvsZDxncjc6qHGf/nDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:08:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9jod3rn5o6"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/scorers/scorer1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZwXkTXQqRJlbghYCqB1Up4gOvsZDxncjc6qHGf/nDk="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/scorers/scorer1.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZwXkTXQqRJlbghYCqB1Up4gOvsZDxncjc6qHGf/nDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:08:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZwXkTXQqRJlbghYCqB1Up4gOvsZDxncjc6qHGf/nDk="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/scorers/scorer2.m9hpoqe8s6.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VjwpAgJFBuOq23OBriI9xS81LNN9XiuyzzamvlCbP7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m9hpoqe8s6"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/scorers/scorer2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjwpAgJFBuOq23OBriI9xS81LNN9XiuyzzamvlCbP7o="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/scorers/scorer2.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VjwpAgJFBuOq23OBriI9xS81LNN9XiuyzzamvlCbP7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjwpAgJFBuOq23OBriI9xS81LNN9XiuyzzamvlCbP7o="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/scorers/top-scorer.mpjyz33n7u.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\top-scorer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnfNB4+eiHFvtdeQuveJpEZ8k4p0VEV5bchyf2+WSv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:08:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpjyz33n7u"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/scorers/top-scorer.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnfNB4+eiHFvtdeQuveJpEZ8k4p0VEV5bchyf2+WSv4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/scorers/top-scorer.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\top-scorer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnfNB4+eiHFvtdeQuveJpEZ8k4p0VEV5bchyf2+WSv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 14:08:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnfNB4+eiHFvtdeQuveJpEZ8k4p0VEV5bchyf2+WSv4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon1.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fWiF9tou1QTMQZosiOcaL1BwEslIc32pWIjWL/XGE4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fWiF9tou1QTMQZosiOcaL1BwEslIc32pWIjWL/XGE4Q="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon1.vpa5uhd5m0.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fWiF9tou1QTMQZosiOcaL1BwEslIc32pWIjWL/XGE4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vpa5uhd5m0"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/service-icons/info-card-icon1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fWiF9tou1QTMQZosiOcaL1BwEslIc32pWIjWL/XGE4Q="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon2.bqcnqntt5h.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTmlTGoWQHah1E/UO7QWgQpNBfD4+ZRQc6XEIwHkI7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqcnqntt5h"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/service-icons/info-card-icon2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTmlTGoWQHah1E/UO7QWgQpNBfD4+ZRQc6XEIwHkI7s="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon2.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTmlTGoWQHah1E/UO7QWgQpNBfD4+ZRQc6XEIwHkI7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTmlTGoWQHah1E/UO7QWgQpNBfD4+ZRQc6XEIwHkI7s="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon3.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mQ7D7inGgiqHNwAsM74Z2n2JN3/cFeYbrinZySWwRuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mQ7D7inGgiqHNwAsM74Z2n2JN3/cFeYbrinZySWwRuU="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon3.vaeg9znnob.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mQ7D7inGgiqHNwAsM74Z2n2JN3/cFeYbrinZySWwRuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vaeg9znnob"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/service-icons/info-card-icon3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mQ7D7inGgiqHNwAsM74Z2n2JN3/cFeYbrinZySWwRuU="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon4.o01x9lmuw3.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aICwWYLxJIoyvROhlOqK524RhPjX8i+RG4BjWZhnhow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:41:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o01x9lmuw3"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/service-icons/info-card-icon4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aICwWYLxJIoyvROhlOqK524RhPjX8i+RG4BjWZhnhow="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/service-icons/info-card-icon4.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\service-icons\\info-card-icon4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aICwWYLxJIoyvROhlOqK524RhPjX8i+RG4BjWZhnhow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 08:41:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aICwWYLxJIoyvROhlOqK524RhPjX8i+RG4BjWZhnhow="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-1.dk6unck7j2.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q1yh/qb3+9SneKa6IIpJJgDNre3qOZnoApj+psBrCyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:45:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dk6unck7j2"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/sidebar-icons/sidebar-icon-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q1yh/qb3+9SneKa6IIpJJgDNre3qOZnoApj+psBrCyo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-1.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q1yh/qb3+9SneKa6IIpJJgDNre3qOZnoApj+psBrCyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:45:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q1yh/qb3+9SneKa6IIpJJgDNre3qOZnoApj+psBrCyo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-2.oq9fmzso5j.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8B4gFLRCaqK8CSTLDcar9qN7D+xI+JrjEGBnqxV8tK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:46:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oq9fmzso5j"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/sidebar-icons/sidebar-icon-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8B4gFLRCaqK8CSTLDcar9qN7D+xI+JrjEGBnqxV8tK0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-2.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8B4gFLRCaqK8CSTLDcar9qN7D+xI+JrjEGBnqxV8tK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:46:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8B4gFLRCaqK8CSTLDcar9qN7D+xI+JrjEGBnqxV8tK0="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-3.d2o5n7yik6.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZxoe7FevjRZKdoh+PbTUuDIqzIBVMC3OBC9FFq6eV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:46:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2o5n7yik6"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/sidebar-icons/sidebar-icon-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FZxoe7FevjRZKdoh+PbTUuDIqzIBVMC3OBC9FFq6eV4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-3.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZxoe7FevjRZKdoh+PbTUuDIqzIBVMC3OBC9FFq6eV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:46:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FZxoe7FevjRZKdoh+PbTUuDIqzIBVMC3OBC9FFq6eV4="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-4.lxd53okksp.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yVhKJS1v7WhmcZWApTY6QQ1tHydnZNgCRgUzCYGJohQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxd53okksp"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/sidebar-icons/sidebar-icon-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yVhKJS1v7WhmcZWApTY6QQ1tHydnZNgCRgUzCYGJohQ="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-4.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yVhKJS1v7WhmcZWApTY6QQ1tHydnZNgCRgUzCYGJohQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yVhKJS1v7WhmcZWApTY6QQ1tHydnZNgCRgUzCYGJohQ="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-5.pbzt69uoe0.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FcJmAWux3Lsby777LJ+0AatsHa7XGREIBnn7mZJIUcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbzt69uoe0"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/sidebar-icons/sidebar-icon-5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FcJmAWux3Lsby777LJ+0AatsHa7XGREIBnn7mZJIUcc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-icon-5.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-icon-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FcJmAWux3Lsby777LJ+0AatsHa7XGREIBnn7mZJIUcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:47:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FcJmAWux3Lsby777LJ+0AatsHa7XGREIBnn7mZJIUcc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-idcon-beehive.ehdczgizde.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-idcon-beehive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vg0V2M4Baivc21wVktL0Irtyd2joGQysl3l9vX3Pb1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehdczgizde"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/sidebar-icons/sidebar-idcon-beehive.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vg0V2M4Baivc21wVktL0Irtyd2joGQysl3l9vX3Pb1Y="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/sidebar-icons/sidebar-idcon-beehive.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\sidebar-icons\\sidebar-idcon-beehive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vg0V2M4Baivc21wVktL0Irtyd2joGQysl3l9vX3Pb1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 11:49:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vg0V2M4Baivc21wVktL0Irtyd2joGQysl3l9vX3Pb1Y="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-1.dth15o5681.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5rSYLK1HmK2UcWPRdBrjNWRbBw+3aVSdeYDjpkrSOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dth15o5681"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/subcategory-icons/subcategpry-icon-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5rSYLK1HmK2UcWPRdBrjNWRbBw+3aVSdeYDjpkrSOc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-1.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5rSYLK1HmK2UcWPRdBrjNWRbBw+3aVSdeYDjpkrSOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5rSYLK1HmK2UcWPRdBrjNWRbBw+3aVSdeYDjpkrSOc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-2.kn277zngdu.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MEyAo4mzr1MJw3jiadNjMclfHQ9o/Rq5c14D/uS0tkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:50:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kn277zngdu"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/subcategory-icons/subcategpry-icon-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MEyAo4mzr1MJw3jiadNjMclfHQ9o/Rq5c14D/uS0tkA="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-2.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MEyAo4mzr1MJw3jiadNjMclfHQ9o/Rq5c14D/uS0tkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:50:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MEyAo4mzr1MJw3jiadNjMclfHQ9o/Rq5c14D/uS0tkA="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-3.29so7cvcq4.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+lOzn8LqBz3pvkzwz2viX5Gv9to98FxCzlxTqlUO0V8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29so7cvcq4"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/subcategory-icons/subcategpry-icon-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+lOzn8LqBz3pvkzwz2viX5Gv9to98FxCzlxTqlUO0V8="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-3.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+lOzn8LqBz3pvkzwz2viX5Gv9to98FxCzlxTqlUO0V8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+lOzn8LqBz3pvkzwz2viX5Gv9to98FxCzlxTqlUO0V8="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-4.82ozx4443o.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cApmlNsNtP/Hw7wAmuXuYUgkw7M9ojIZj5oD6matOxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "82ozx4443o"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/subcategory-icons/subcategpry-icon-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cApmlNsNtP/Hw7wAmuXuYUgkw7M9ojIZj5oD6matOxs="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/subcategory-icons/subcategpry-icon-4.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\subcategory-icons\\subcategpry-icon-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cApmlNsNtP/Hw7wAmuXuYUgkw7M9ojIZj5oD6matOxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 13:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cApmlNsNtP/Hw7wAmuXuYUgkw7M9ojIZj5oD6matOxs="
+        }
+      ]
+    },
+    {
       "Route": "BeeWise.bundle.scp.css",
       "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BeeWise.bundle.scp.css",
       "Selectors": [],
@@ -1485,51 +5296,6 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 15:31:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1540,7 +5306,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "6100"
         },
         {
           "Name": "Content-Type",
@@ -1548,11 +5314,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"r24ZuKe5LNY3tz2hLD73otj5xYxOt+WYd/6KLg5q3Cw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 15:31:02 GMT"
+          "Value": "Tue, 18 Feb 2025 11:38:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1562,7 +5328,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-r24ZuKe5LNY3tz2hLD73otj5xYxOt+WYd/6KLg5q3Cw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jz7p2qt38i.css",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r24ZuKe5LNY3tz2hLD73otj5xYxOt+WYd/6KLg5q3Cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 11:38:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jz7p2qt38i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r24ZuKe5LNY3tz2hLD73otj5xYxOt+WYd/6KLg5q3Cw="
         }
       ]
     },
@@ -1649,6 +5460,51 @@
       ]
     },
     {
+      "Route": "js/site.bfatmf5wgl.js",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WNQjiz7TGv6LesrgjrW/ERTS5GeWBjh35T7KgIQg+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 11:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfatmf5wgl"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WNQjiz7TGv6LesrgjrW/ERTS5GeWBjh35T7KgIQg+s="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1659,7 +5515,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "2725"
         },
         {
           "Name": "Content-Type",
@@ -1667,11 +5523,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"+WNQjiz7TGv6LesrgjrW/ERTS5GeWBjh35T7KgIQg+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 15:31:02 GMT"
+          "Value": "Tue, 18 Feb 2025 11:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1681,52 +5537,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 15:31:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-+WNQjiz7TGv6LesrgjrW/ERTS5GeWBjh35T7KgIQg+s="
         }
       ]
     },
