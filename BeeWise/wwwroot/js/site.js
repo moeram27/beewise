@@ -71,10 +71,9 @@ modalOverlay.click(function (event) {
     }
 });
 
-// Swiper Configuration
-//const swiper = new Swiper('.service-info-swiper', {
-//    freeMode: true,
-//    slidesPerView: 'auto',
-//    spaceBetween: 15,
-//    centerInsufficientSlides: true
-//});
+const swiper = new Swiper('.service-info-swiper', {
+    freeMode: true,
+    slidesPerView: 'auto',
+    spaceBetween: 15,
+    centerInsufficientSlides: true
+});

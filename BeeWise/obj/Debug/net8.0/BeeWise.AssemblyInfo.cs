@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeeWise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a8648ed897538aad7b29e089498df2bc74502f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d27abc15c126d7b2af619c479f71e03bab30941")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeeWise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeeWise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
