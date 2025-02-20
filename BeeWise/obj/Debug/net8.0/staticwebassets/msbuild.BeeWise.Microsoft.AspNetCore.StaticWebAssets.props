@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\favicon.ico'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/favicon.ico</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xdod4axcfi</Fingerprint>
+      <Integrity>tbhNk4KJV+N7UxQc70eIRj000HojC+V+k7jDiZKxb5k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\favicon.ico'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\background.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BeeWise</SourceId>
@@ -696,8 +714,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jcq36y2n8b</Fingerprint>
-      <Integrity>3em/+Xymyc/3Nz8/oLZzdv2ezkFPELJVDq9EmQHpPM8=</Integrity>
+      <Fingerprint>o1ip1oof22</Fingerprint>
+      <Integrity>nGhEO0XQbLhqieQ7OXdjaTroBEhj04shsnp+ugQ1gcU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</OriginalItemSpec>
@@ -732,8 +750,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jz7p2qt38i</Fingerprint>
-      <Integrity>r24ZuKe5LNY3tz2hLD73otj5xYxOt+WYd/6KLg5q3Cw=</Integrity>
+      <Fingerprint>tbjx3kdlkt</Fingerprint>
+      <Integrity>GaOQ72K3UxpSQnJwZwHiIiXxANSjNSEeHWL98HVgEW4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -768,29 +786,11 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ue11doutsi</Fingerprint>
-      <Integrity>ZmpCc6rMy1YK4+4+2q1tI8eGaPeQ8TRjuF2gAANXDq4=</Integrity>
+      <Fingerprint>by097cv82p</Fingerprint>
+      <Integrity>7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-page-1.css'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BeeWise</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BeeWise</BasePath>
-      <RelativePath>favicon.ico</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>61n19gt1b8</Fingerprint>
-      <Integrity>Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -804,8 +804,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bfatmf5wgl</Fingerprint>
-      <Integrity>+WNQjiz7TGv6LesrgjrW/ERTS5GeWBjh35T7KgIQg+s=</Integrity>
+      <Fingerprint>yfat6qcyp5</Fingerprint>
+      <Integrity>Hoj55EQZqDFE2HWmqy690P656ZVswmS2+3UHmur2KJE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>

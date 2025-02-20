@@ -8,5 +8,15 @@ namespace BeeWise.Controllers
         {
             return View();
         }
+
+        public IActionResult SubCategories()
+        {
+            return View();
+        } 
+
+        public IActionResult SurveyPages()
+        {
+            return View();
+        }
     }
 }

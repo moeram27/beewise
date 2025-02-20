@@ -24,6 +24,26 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/SubCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxTdWJDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/SurveyPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxTdXJ2ZXlQYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPage3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/dev/src/BeeWise/BeeWise/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

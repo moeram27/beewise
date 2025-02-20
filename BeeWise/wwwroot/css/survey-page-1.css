@@ -62,10 +62,10 @@
     transition: .3s;
 }
 
-.answer-option:hover {
-    border: 1px solid var(--bw-orange);
-    cursor: pointer;
-}
+    .answer-option:hover {
+        border: 1px solid var(--bw-orange);
+        cursor: pointer;
+    }
 
 .selected {
     border: 1px solid var(--bw-orange);
@@ -73,12 +73,67 @@
     color: var(--bw-white);
 }
 
-.next-btn {
-    background-color: var(--bw-orange);
-    padding: 10px 15px;
-    border: none;
+.button-wrapper {
+    display: flex;
+    justify-content: center;
 }
 
+#next-btn {
+    background-color: var(--bw-orange);
+    color: var(--bw-black);
+    padding: 10px 15px;
+    border: none;
+    margin-left: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+    #next-btn:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+
+#prev-btn {
+    background-color: var(--bw-orange);
+    color: var(--bw-black);
+    padding: 10px 15px;
+    border: none;
+    margin-right: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+    #prev-btn:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+
+#home-btn {
+    background-color: var(--bw-orange);
+    color: var(--bw-black);
+    padding: 10px 15px;
+    border: none;
+    margin-right: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+    #home-btn:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+#home-redirect {
+    color:inherit;
+    text-decoration: none;
+}
+
+#home-redirect:hover {
+    color: var(--bw-yellow);
+    text-decoration: none;
+}
 @media screen and (min-width: 420px) {
     .footer {
         margin-top: 2vw;

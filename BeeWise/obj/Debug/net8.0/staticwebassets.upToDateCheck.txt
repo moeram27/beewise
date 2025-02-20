@@ -1,3 +1,4 @@
+wwwroot\Assets\favicon.ico
 wwwroot\Assets\Images\background.png
 wwwroot\Assets\Images\badge-icons\badge-check-icon.png
 wwwroot\Assets\Images\badge-icons\info-icon.png
@@ -40,7 +41,6 @@ wwwroot\css\lang-menu.css
 wwwroot\css\site.css
 wwwroot\css\subcategories.css
 wwwroot\css\survey-page-1.css
-wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map

@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - BeeWise</title>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/BeeWise.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/lang-menu.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/subcategories.css" asp-append-version="true" />
@@ -13,47 +12,51 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    @RenderSection("Styles", required: false)
+
 </head>
-<body>
-    <header class="header">
-        <div class="logo-div">
-            <button class="mobile-burger-menu burger-menu" onclick="toggleSideBar(this)">
+<header class="header">
+    <div class="logo-div">
+        <button class="mobile-burger-menu burger-menu" onclick="toggleSideBar(this)">
+            <img src="@Url.Content("~/Assets/Images/header-items/burger-menu.svg")" alt="">
+        </button>
+        <img class="logo" src="@Url.Content("~/Assets/Images/logos/logo.png")">
+        <div class="divider"></div>
+        <div class="gs-lang-menu">
+            <div class="lang-dropdown-wrapper ">
+                <button class="gs-selected-lang" onclick="openLangMenu(this)"><span>EN</span></button>
+            </div>
+            <ul class="gs-langs-wrapper">
+                <li class="gs-lang">
+                    <a href="">AR</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="user-options-div">
+        <!-- <button class="get-started-button">
+            Get Started
+        </button> -->
+        <div class="user-info">
+            <div class="profile-photo">
+                <img src="@Url.Content("~/Assets/Images/header-items/profile-pic.png")" alt="">
+            </div>
+            <div class="username">
+                <p>Fouad Hariss</p>
+            </div>
+            <button class="burger-menu" onclick="toggleSideBar(this)">
                 <img src="@Url.Content("~/Assets/Images/header-items/burger-menu.svg")" alt="">
             </button>
-            <img class="logo" src="@Url.Content("~/Assets/Images/logos/logo.png")">
-            <div class="divider"></div>
-            <div class="gs-lang-menu">
-                <div class="lang-dropdown-wrapper ">
-                    <button class="gs-selected-lang" onclick="openLangMenu(this)"><span>EN</span></button>
-                </div>
-                <ul class="gs-langs-wrapper">
-                    <li class="gs-lang">
-                        <a href="">AR</a>
-                    </li>
-                </ul>
-            </div>
         </div>
-        <div class="user-options-div">
-            <!-- <button class="get-started-button">
-                Get Started
-            </button> -->
-            <div class="user-info">
-                <div class="profile-photo">
-                    <img src="@Url.Content("~/Assets/Images/header-items/profile-pic.png")" alt="">
-                </div>
-                <div class="username">
-                    <p>Fouad Hariss</p>
-                </div>
-                <button class="burger-menu" onclick="toggleSideBar(this)">
-                    <img src="@Url.Content("~/Assets/Images/header-items/burger-menu.svg")" alt="">
-                </button>
-            </div>
+    </div>
+</header>
+<body>
+    <div class="content-wrapper">
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
         </div>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
     </div>
 
     <footer class="footer">
@@ -76,7 +79,9 @@
 
     <script src="~/js/site.js" asp-append-version="true"></script>
 
-    @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection("Scripts", required: false)
+
+
 
 </body>
 </html>

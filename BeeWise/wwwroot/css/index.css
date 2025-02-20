@@ -248,6 +248,11 @@ body.no-scroll {
     padding: 5px;
 }
 
+    .sidebar-option:hover {
+        background-color: var(--bw-yellow);
+        cursor: pointer;
+    }
+
 .sidebar-logout-button {
     border: none;
     color: var(--bw-black);
@@ -260,10 +265,16 @@ body.no-scroll {
     font-size: 12px;
 }
 
+    .sidebar-logout-button:hover{
+        background-color:var(--bw-black);
+        color:var(--bw-yellow);
+        cursor:pointer;
+    }
 
-.sidebar-icon {
-    max-width: 50px;
-}
+
+    .sidebar-icon {
+        max-width: 50px;
+    }
 /* leaderoard-section */
 /* -------------------------------------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------------------------------------- */

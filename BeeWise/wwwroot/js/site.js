@@ -3,7 +3,6 @@
 
 // Write your JavaScript code.
 
-
 const langsWrapper = $('.gs-langs-wrapper');
 const langsArrow = $('.lang-dropdown-wrapper');
 const burgerMenu = $('.burger-menu');
@@ -22,16 +21,15 @@ function openLangMenu(el) {
     btn.toggleClass("expanded");
 }
 
-
 function toggleSideBar(el) {
     const toggleSideBarBtn = $(el);
     sidebarBackdrop.fadeToggle();
     $('body').toggleClass("no-scroll");
 
     if (isSidebarOpen) {
-        toggleSideBarBtn.find("img").prop('src', '/images/header-items/close-burgermenu-icon.png');
+        toggleSideBarBtn.find("img").prop('src', '/Assets/Images/header-items/close-burgermenu-icon.png');
     } else {
-        toggleSideBarBtn.find("img").prop('src', '/images/header-items/burger-menu.svg');
+        toggleSideBarBtn.find("img").prop('src', '/Assets/Images/header-items/burger-menu.svg');
     }
 
     isSidebarOpen = !isSidebarOpen;
@@ -77,3 +75,14 @@ const swiper = new Swiper('.service-info-swiper', {
     spaceBetween: 15,
     centerInsufficientSlides: true
 });
+
+$(document).ready(function () {
+    $(".answer-option").click(function () {
+        $(this).toggleClass("selected");
+    });
+
+    $("#next").click(function () {
+        $(".answer-option").removeClass("selected");
+    });
+});
+

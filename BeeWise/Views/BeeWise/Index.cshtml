@@ -2,6 +2,10 @@
     ViewData["Title"] = "Index";
 }
 
+@section Styles{
+    <link rel="stylesheet" href="~/css/index.css"/>
+}
+
 <body style="margin: 0;">
     <div class="content-wrapper">
         <div class="sidebar-backdrop">
@@ -91,8 +95,9 @@
             <h4 class="inline-title">UNLOCK YOUR POTENTIAL WITH BEEWISE!</h4>
             <h5 class="disocver-disclaimer">Discover your IQ, personality, and more in a buzzing hive of fun and insights!</h5>
             <div class="category-wrapper">
-                <a href="/subcategroies.html" class="categories-redirect">
-                    <div class="category">
+                <a asp-controller="BeeWise" asp-action="SubCategories" class="categories-redirect">
+
+                <div class="category">
                         <div class="category-icon">
                             <img class="icon" src="@Url.Content("~/Assets/Images/categories-icons/iq-category-icon.svg")" alt="">
                         </div>
