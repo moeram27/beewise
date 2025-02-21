@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "SurveyPages";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/survey-page-1.css" />
+}
+
+
+<div id="survey-container">
+    <div id="survey-page-1">
+        @await Html.PartialAsync("_SurveyPage1")
+    </div>
+    <div id="survey-page-2" style="display:none;">
+        @await Html.PartialAsync("_SurveyPage2")
+    </div>
+    <div id="survey-page-3" style="display:none;">
+        @await Html.PartialAsync("_SurveyPage3")
+    </div>
+    <div class="button-wrapper">
+        <button id="prev-btn" onclick="showPreviousPage()">Back</button>
+        <button id="next-btn" onclick="showNextPage()">Next</button>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script>
+        let currentPage = 1;
+        const totalPages = 3; 
+
+        function showNextPage() {
+            document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
+            currentPage++;
+
+            document.getElementById(`survey-page-${currentPage}`).style.display = 'block';
+
+            
+            if (currentPage === totalPages) {
+                document.getElementById('next-btn').style.display = 'none';
+            } else {
+                document.getElementById('next-btn').style.display = 'block';
+            }
+
+            
+            document.getElementById('prev-btn').style.display = 'block';
+        }
+
+        function showPreviousPage() {
+            document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
+            currentPage--;
+
+            document.getElementById(`survey-page-${currentPage}`).style.display = 'block';
+
+            
+            if (currentPage === 1) {
+                document.getElementById('prev-btn').style.display = 'none';
+            } else {
+                document.getElementById('prev-btn').style.display = 'block';
+            }
+
+            
+            document.getElementById('next-btn').style.display = 'block';
+        }
+    </script>
+
+}

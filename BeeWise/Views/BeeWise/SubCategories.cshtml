@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "SubCategories";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/subcategories.css" />
+}
+<div class="content-wrapper">
+
+    <section class="iq-test">
+        <h4 class="iq-test-title">IQ TESTS</h4>
+
+        <h5 class="iq-test-description">
+            BeeWise offers a diverse range of IQ tests designed
+            to cater to various cognitive skills and interests
+        </h5>
+
+        <p class="iq-test-subtitle">Start by selecting one of the below categories</p>
+
+        <div class="subcategory-wrapper">
+            <a asp-controller="BeeWise" asp-action="SurveyPages" class="subcategory-redirect">
+                
+                <div class="subcategory-card">
+                    <img class="subcategory-icon" src="@Url.Content("~/Assets/Images/subcategory-icons/subcategpry-icon-1.png")" alt="category-icon-iq">
+                    <h4 class="subcategory-title">Verbal IQ Tests</h4>
+                    <p class="subcategory-description">
+                        Assess your language skills and
+                        verbal reasoning through analogies,
+                        word associations, and more.
+                    </p>
+                </div>
+            </a>
+            <div class="subcategory-card">
+                <img class="subcategory-icon" src="@Url.Content("~/Assets/Images/subcategory-icons/subcategpry-icon-2.png")" alt="category-icon-iq">
+                <h4 class="subcategory-title">Non-Verbal IQ Tests</h4>
+                <p class="subcategory-description">
+                    Challenge your pattern recognition
+                    and abstract thinking with
+                    image-based puzzles and sequences.
+                </p>
+            </div>
+
+            <div class="subcategory-card">
+                <img class="subcategory-icon" src="@Url.Content("~/Assets/Images/subcategory-icons/subcategpry-icon-3.png")" alt="category-icon-iq">
+                <h4 class="subcategory-title">Logical/Math IQ Tests</h4>
+                <p class="subcategory-description">
+                    Test your problem-solving and
+                    numerical abilities with sequences
+                    and logic puzzles.
+                </p>
+            </div>
+            <div class="subcategory-card">
+                <img class="subcategory-icon" src="@Url.Content("~/Assets/Images/subcategory-icons/subcategpry-icon-4.png")" alt="category-icon-iq">
+                <h4 class="subcategory-title">Memory-Based Tests</h4>
+                <p class="subcategory-description">
+                    Evaluate your ability to recall and
+                    process information quickly
+                    and accurately.
+                </p>
+            </div>
+        </div>
+
+    </section>
+
+</div>

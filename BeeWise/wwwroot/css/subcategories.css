@@ -1,0 +1,76 @@
+﻿/* ------------------------------------------------------------
+------------------------- subcategories -----------------------
+--------------------------------------------------------------- */
+
+
+
+.iq-test {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+    width: clamp(270px, 80vw, 900px);
+    margin-inline: auto;
+    margin-top: 50px;
+    gap: 20px;
+    text-align: center;
+    color: inherit;
+}
+
+.iq-test-title {
+    color: var(--bw-orange);
+    font-size: clamp(19px, 3vw, 22px);
+}
+
+.iq-test-description {
+    font-size: clamp(15px, 3vw, 22px);
+}
+
+.iq-test-subtitle {
+    font-size: clamp(15px, 3vw, 22px);
+    color: var(--bw-orange);
+}
+
+.subcategory-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.subcategory-redirect {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.subcategory-card {
+    background-color: var(--bw-white);
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: clamp(250px, 20vw, 450px);
+    text-align: center;
+    gap: 10px;
+    padding: 10px;
+    transition: .3s;
+}
+
+
+    .subcategory-card:hover {
+        background-color: var(--bw-yellow);
+        cursor: pointer;
+    }
+
+img.subcategory-icon {
+    width: 30px;
+}
+
+@media screen and (max-width:420px) {
+    .iq-test {
+        margin-bottom: 5vw;
+    }
+}
