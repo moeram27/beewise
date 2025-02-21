@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,8 +50,7 @@
               "RelativeToolTip": "BeeWise\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-18T11:35:59.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T11:35:59.067Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "RelativeToolTip": "BeeWise\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAOYAAAAAAAAAAAAwwAsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-18T10:35:09.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T10:35:09.04Z"
             },
             {
               "$type": "Document",
@@ -82,7 +84,7 @@
               "RelativeDocumentMoniker": "BeeWise\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BeeWise\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-18T07:48:40.815Z",
               "EditorCaption": ""
@@ -97,8 +99,7 @@
               "RelativeToolTip": "BeeWise\\Views\\BeeWise\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T07:41:11.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T07:41:11.408Z"
             },
             {
               "$type": "Document",
