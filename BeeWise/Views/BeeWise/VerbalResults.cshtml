@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Verbal IQ Results";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/index.css" />
+}
+
+<div class="results-content-wrapper">
+
+    <h4 class="iq-test-title">
+        VERBAL IQ TESTS
+    </h4>
+
+    <h2 class="user-score">
+        YOUR SCORE: 130
+    </h2>
+
+    <div class="user-positioning">
+
+        <p class="user-iq-level">
+            Genius Level
+        </p>
+        <p class="user-iq-position">
+            You Scored Higher Than 85% Of Test-Takers
+        </p>
+    </div>
+
+    <div class="badge-earn">
+
+        <h5 class="badge-announcement">
+            You Have Earned A New Badge!
+        </h5>
+        <h5 class="badge-name">
+            Pattern Prodigy
+        </h5>
+    </div>
+
+    <div class="skills-hexagon">
+        <h5 class="hexagon-title">
+            Skills Breakdown
+        </h5>
+        <img class="hexagon-skills" src="@Url.Content("~/Assets/Images/IQTestResults/percentege-hexagon.png")" alt="Alternate Text" />
+    </div>
+
+    <div class="test-feedback">
+        <ul class="feedback-list">
+            <li>Your vocabulary is exceptional!</li>
+            <li>
+                Your analogy-solving skills can be enhanced. Try practicing with
+                logic-based puzzles and word relationship exercises
+            </li>
+        </ul>
+    </div>
+
+    <p class="category-weekly-ranking">
+        You ranked #12 this week in the Verbal IQ category!
+    </p>
+
+    <div class="button-container">
+        <button id="retake-test">
+            Retake the test
+        </button>
+        <button id="next-level-test">
+            Challenge Yourself With New Test
+        </button>
+    </div>
+
+    <a asp-controller="BeeWise" asp-action="" class="home-redirect">
+        <button id="home-btn">
+            Go Home
+        </button>
+    </a>
+</div>

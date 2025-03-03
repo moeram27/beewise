@@ -2,6 +2,259 @@
     ViewData["Title"] = "Index";
 }
 
-<h2>Index</h2>
+@section Styles{
+    <link rel="stylesheet" href="~/css/index.css"/>
+}
 
-<p>Hello from our View Template!</p>
+<body style="margin: 0;">
+    <div class="content-wrapper">
+        <div class="sidebar-backdrop">
+            <div class="sidebar-wrapper">
+                <div class="sidebar-redirections">
+                    <div class="sidebar-option">
+                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-idcon-beehive.png")" alt="">
+                        <p>Home</p>
+                    </div>
+                    <div class="sidebar-option">
+                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-1.png")" alt="">
+                        <p>Leaderboard</p>
+                    </div>
+                    <div class="sidebar-option">
+                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-2.png")" alt="">
+                        <p>My Profile</p>
+                    </div>
+                    <div class="sidebar-option">
+                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-3.png")" alt="">
+                        <p>Unsubscribe</p>
+                    </div>
+                    <div class="sidebar-option">
+                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-4.png")" alt="">
+                        <p>Packages</p>
+                    </div>
+                    <div class="sidebar-option">
+                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-5.png")" alt="">
+                        <p>Privacy Policy</p>
+                    </div>
+                </div>
+                <button class="sidebar-logout-button">Logout</button>
+            </div>
+        </div>
+
+        <div class="info-badge-wrapper">
+            <img class="verified-badge" src="@Url.Content("~/Assets/Images/badge-icons/badge-check-icon.png")" alt="">
+            <p class="badge-title">Logic Legend</p>
+            <a href="#" class="open-modal">
+                <img class="info-icon" src="@Url.Content("~/Assets/Images/badge-icons/info-icon.png")" alt="">
+            </a>
+        </div>
+
+        <div class="info-modal-overlay">
+            <div class="info-modal-content">
+                <button class="close-modal">&times;</button>
+                <h2 class="modal-title">How To Earn Badges</h2>
+                <p><strong>Category 1: Performance-Based Badges</strong></p>
+                <ul class="modal-list-wrapper">
+                    <li><strong>Bright Beginner:</strong> For completing your first test.</li>
+                    <li><strong>Pattern Prodigy:</strong> For scoring above 90% on a non-verbal IQ test.</li>
+                    <li><strong>Logic Legend:</strong> For acing a logical IQ test.</li>
+                    <li><strong>Memory Master:</strong> For achieving top scores on memory-based questions.</li>
+                    <li><strong>Spatial Specialist:</strong> For excelling in spatial reasoning.</li>
+                </ul>
+                <p><strong>Category 2: Engagement Badges</strong></p>
+                <ul class="modal-list-wrapper">
+                    <li><strong>Curious Bee:</strong> For completing 5 different tests.</li>
+                    <li><strong>Quiz Enthusiast:</strong> For logging in 7 days in a row.</li>
+                    <li><strong>Hive Loyalist:</strong> For maintaining a streak of 30 days of activity.</li>
+                    <li><strong>Explorer Bee:</strong> For trying all test categories.</li>
+                </ul>
+                <p><strong>Category 3: Leaderboard Achievements</strong></p>
+                <ul class="modal-list-wrapper">
+                    <li><strong>Top Buzz:</strong> For ranking 1st on the leaderboard for a day.</li>
+                    <li><strong>Golden Hive Member:</strong> For staying in the top 10 for a week.</li>
+                    <li><strong>Competitive Bee:</strong> For climbing the leaderboard 5 times.</li>
+                </ul>
+                <p><strong>Category 4: Social and Sharing Badges</strong></p>
+                <ul class="modal-list-wrapper">
+                    <li><strong>Sharing Star:</strong> For sharing test results on social media.</li>
+                    <li><strong>Referral Buzz:</strong> For inviting 3 friends to the portal.</li>
+                    <li><strong>Hive Builder:</strong> For inviting 10 friends.</li>
+                </ul>
+                <p><strong>Category 5: Special Achievements</strong></p>
+                <ul class="modal-list-wrapper">
+                    <li><strong>Early Bee:</strong> For joining within the first month of the portal's launch.</li>
+                    <li><strong>Perfectionist:</strong> For achieving 100% in any test.</li>
+                    <li><strong>Jack Of All Tests:</strong> For completing every test category.</li>
+                    <li><strong>Streak Keeper:</strong> For completing tests daily for 30 consecutive days.</li>
+                    <li><strong>Quiz Champion:</strong> For earning all badges.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="hero-section">
+            <img class="inline-logo" src="@Url.Content("~/Assets/Images/logos/inline-logo.png")" alt="bee-logo">
+            <h4 class="inline-title">UNLOCK YOUR POTENTIAL WITH BEEWISE!</h4>
+            <h5 class="disocver-disclaimer">Discover your IQ, personality, and more in a buzzing hive of fun and insights!</h5>
+            <div class="category-wrapper">
+                <a asp-controller="BeeWise" asp-action="SubCategories" class="categories-redirect">
+
+                <div class="category">
+                        <div class="category-icon">
+                            <img class="icon" src="@Url.Content("~/Assets/Images/categories-icons/iq-category-icon.svg")" alt="">
+                        </div>
+                        <p class="category-title">IQ Tests</p>
+                    </div>
+                </a>
+                <div class="category">
+                    <div class="category-icon">
+                        <img class="icon" src="@Url.Content("~/Assets/Images/categories-icons/personality-category-icon.svg")" alt="">
+                    </div>
+                    <p class="category-title">Personality Tests</p>
+                </div>
+                <div class="category">
+                    <div class="category-icon">
+                        <img class="icon" src="@Url.Content("~/Assets/Images/categories-icons/emotional-category-icon.svg")" alt="">
+                    </div>
+                    <p class="category-title">Emotional Inteligence</p>
+                </div>
+                <div class="category">
+                    <div class="category-icon">
+                        <img class="icon" src="@Url.Content("~/Assets/Images/categories-icons/creativity-category-icon.svg")" alt="">
+                    </div>
+                    <p class="category-title">Creativity Challenges</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="leaderboard-section">
+            <h4 class="scorers">Top Scorers This Week</h4>
+            <h4 class="leaderboard-tops">Who's buzzing to the top? Check out today's brightest minds!</h4>
+            <div class="leaderboard">
+                <div class="top-scorer">
+                    <img class="leader-icon" src="@Url.Content("~/Assets/Images/leaderboard-icons/top-scorer-icon.png")" alt="leader-bee-pic">
+                    <h3 class="top-position">1<sup class="number-st">st</sup></h3>
+                    <div class="profile-pic">
+                        <img class="leader-profile-pic" src="@Url.Content("~/Assets/Images/scorers/top-scorer.png")">
+                    </div>
+                    <h5 class="leader-name">SmartyBee99</h5>
+                    <h5 class="leader-iq-name">IQ: 145</h5>
+                </div>
+                <div class="scorer">
+                    <img class="leaderboard-icon" src="@Url.Content("~/Assets/Images/leaderboard-icons/second-scorer-icon.png")" alt="position-icon">
+                    <h3 class="scorer-position">2<sup class="number-st">nd</sup></h3>
+                    <div class="profile-pic">
+                        <img class="scorer-profile-pic" src="@Url.Content("~/Assets/Images/scorers/scorer1.png")">
+                    </div>
+                    <h5 class="scorer-name">BrainiacBuzz</h5>
+                    <h5 class="scorer-iq-name">IQ: 142</h5>
+                </div>
+                <div class="scorer">
+                    <img class="leaderboard-icon" src="@Url.Content("~/Assets/Images/leaderboard-icons/third-scorer-icon.png")" alt="position-icon">
+                    <h3 class="scorer-position">3<sup class="number-st">rd</sup></h3>
+                    <div class="profile-pic">
+                        <img class="scorer-profile-pic" src="@Url.Content("~/Assets/Images/scorers/scorer2.png")">
+                    </div>
+                    <h5 class="scorer-name">QueenBeeIQ</h5>
+                    <h5 class="scorer-iq-name">IQ: 140</h5>
+                </div>
+            </div>
+            <h4>You're 10 points away from the leaderboard!</h4>
+            <div class="progress-bar-wrapper">
+                <div class="progress-bar">
+                    <div class="profile-pic-wrapper">
+                        <div class="progress-profile-photo profile-photo">
+                            <img src="@Url.Content("~/Assets/Images/header-items/profile-pic.png")" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="service-info">
+            <h4>Why BeeWise?</h4>
+            <div class="swiper service-info-swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="info-card">
+                            <div class="icon-container">
+                                <img class="service-icon" src="@Url.Content("~/Assets/Images/service-icons/info-card-icon1.png")" alt="">
+                            </div>
+                            <h5>Fun & Interactive</h5>
+                            <p>Enjoy engaging quizzes designed for all ages</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="info-card">
+                            <div class="icon-container">
+                                <img class="service-icon" src="@Url.Content("~/Assets/Images/service-icons/info-card-icon2.png")" alt="">
+                            </div>
+                            <h5>Accurate Insights</h5>
+                            <p>Get results backed by psychology and data science</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="info-card">
+                            <div class="icon-container">
+                                <img class="service-icon" src="@Url.Content("~/Assets/Images/service-icons/info-card-icon3.png")" alt="">
+                            </div>
+                            <h5>Track Your Growth</h5>
+                            <p>Compare results and see your progress</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="info-card">
+                            <div class="icon-container">
+                                <img class="service-icon" src="@Url.Content("~/Assets/Images/service-icons/info-card-icon4.png")" alt="">
+                            </div>
+                            <h5>Secure and Private</h5>
+                            <p>Your data stays with you</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pricing-info">
+            <h4>Discover the Sweet Benefits of Subscribing</h4>
+            <div class="pricing-cards-wrapper">
+                <div class="pricing-card">
+                    <h3 class="plan-title">Free Plan</h3>
+                    <h6 class="price">0$</h6>
+                    <div class="card-divider"></div>
+                    <ul class="plan-features">
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images/list-icons/list-check-icon.png")" alt="">Access to basic tests</li>
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images/list-icons/list-check-icon.png")" alt="">1 test in each category</li>
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images/list-icons/list-check-icon.png")" alt="">Create your own profile</li>
+                    </ul>
+                    <button class="plan-button">Choose this plan</button>
+                </div>
+                <div class="pricing-card premium-pricing-card">
+                    <div class="price-drop">
+                        <p>-30%</p>
+                    </div>
+                    <h3 class="plan-title">Premium Plan</h3>
+                    <h6 class="price">4$ <sup class="premium-sup">Month</sup></h6>
+                    <div class="card-divider"></div>
+                    <ul class="plan-features">
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images/list-icons/list-check-icon-premium.png")" alt="">All in Free and Weekly plans</li>
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images/list-icons/list-check-icon-premium.png")" alt="">Unlimited tests</li>
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images/list-icons/list-check-icon-premium.png")" alt="">Unlimited tests</li>
+                    </ul>
+                    <button class="plan-button premium-plan-button">Choose this plan</button>
+                </div>
+                <div class="pricing-card">
+                    <h3 class="plan-title">Weekly Plan</h3>
+                    <h6 class="price">2$ <sup>/Week</sup></h6>
+                    <div class="card-divider"></div>
+                    <ul class="plan-features">
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images//list-icons/list-check-icon.png")" alt=""> All in Free plan</li>
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images//list-icons/list-check-icon.png")" alt="">10 tests in each category</li>
+                        <li class="list-plan-feature"><img src="@Url.Content("~/Assets/Images//list-icons/list-check-icon.png")" alt="">Reserve a name in Leaderboard</li>
+                    </ul>
+                    <button class="plan-button">Choose this plan</button>
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+</body>
