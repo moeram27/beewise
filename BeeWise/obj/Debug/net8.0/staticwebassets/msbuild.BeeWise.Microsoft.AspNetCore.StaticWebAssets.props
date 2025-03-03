@@ -786,8 +786,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>by097cv82p</Fingerprint>
-      <Integrity>7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=</Integrity>
+      <Fingerprint>np9djdc3zq</Fingerprint>
+      <Integrity>azlFD2GCIm551vJ2f+xFIDU1KKKelRwqoCASMByykio=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-page-1.css'))</OriginalItemSpec>

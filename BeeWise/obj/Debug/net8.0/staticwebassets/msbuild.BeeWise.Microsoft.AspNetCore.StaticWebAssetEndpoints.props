@@ -516,17 +516,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ykea7nmqwn"},{"Name":"integrity","Value":"sha256-rpQW81H0q7OsjWd6a1eZDvUrNEiwR7YMCL1QDk0izko="},{"Name":"label","Value":"_content/BeeWise/css/subcategories.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1555"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rpQW81H0q7OsjWd6a1eZDvUrNEiwR7YMCL1QDk0izko=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 09:55:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/BeeWise/css/survey-page-1.by097cv82p.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-page-1.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"by097cv82p"},{"Name":"integrity","Value":"sha256-7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI="},{"Name":"label","Value":"_content/BeeWise/css/survey-page-1.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2923"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 09:55:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BeeWise/css/survey-page-1.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-page-1.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2923"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 09:55:52 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-azlFD2GCIm551vJ2f\u002BxFIDU1KKKelRwqoCASMByykio="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3089"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022azlFD2GCIm551vJ2f\u002BxFIDU1KKKelRwqoCASMByykio=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 11:46:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BeeWise/css/survey-page-1.np9djdc3zq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-page-1.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"np9djdc3zq"},{"Name":"integrity","Value":"sha256-azlFD2GCIm551vJ2f\u002BxFIDU1KKKelRwqoCASMByykio="},{"Name":"label","Value":"_content/BeeWise/css/survey-page-1.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3089"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022azlFD2GCIm551vJ2f\u002BxFIDU1KKKelRwqoCASMByykio=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 11:46:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BeeWise/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

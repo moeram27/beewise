@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GobKtpF/5OSDwV4LuH0Nrz50rUK4KOBuOqCZK9MkHaE=",
+  "Hash": "28ZMkEjEiq7i9tZKpQsDc6crY/3APwDDRuvssTt2Jqc=",
   "Source": "BeeWise",
   "BasePath": "_content/BeeWise",
   "Mode": "Default",
@@ -955,8 +955,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "by097cv82p",
-      "Integrity": "7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=",
+      "Fingerprint": "np9djdc3zq",
+      "Integrity": "azlFD2GCIm551vJ2f+xFIDU1KKKelRwqoCASMByykio=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\survey-page-1.css"
@@ -5118,51 +5118,6 @@
       ]
     },
     {
-      "Route": "css/survey-page-1.by097cv82p.css",
-      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-page-1.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2923"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:55:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "by097cv82p"
-        },
-        {
-          "Name": "label",
-          "Value": "css/survey-page-1.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI="
-        }
-      ]
-    },
-    {
       "Route": "css/survey-page-1.css",
       "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-page-1.css",
       "Selectors": [],
@@ -5173,7 +5128,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2923"
+          "Value": "3089"
         },
         {
           "Name": "Content-Type",
@@ -5181,11 +5136,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI=\""
+          "Value": "\"azlFD2GCIm551vJ2f+xFIDU1KKKelRwqoCASMByykio=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:55:52 GMT"
+          "Value": "Mon, 24 Feb 2025 11:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5195,7 +5150,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7YtLGsJ2fCaMYXBnovBBHrH5rVqmiXVlwGG5g0Y2jeI="
+          "Value": "sha256-azlFD2GCIm551vJ2f+xFIDU1KKKelRwqoCASMByykio="
+        }
+      ]
+    },
+    {
+      "Route": "css/survey-page-1.np9djdc3zq.css",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-page-1.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"azlFD2GCIm551vJ2f+xFIDU1KKKelRwqoCASMByykio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 11:46:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "np9djdc3zq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/survey-page-1.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-azlFD2GCIm551vJ2f+xFIDU1KKKelRwqoCASMByykio="
         }
       ]
     },

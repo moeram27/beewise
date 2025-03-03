@@ -17,8 +17,10 @@
     <div id="survey-page-3" style="display:none;">
         @await Html.PartialAsync("_SurveyPage3")
     </div>
+    <div id="survey-page-4" style="display:none;">
+        @await Html.PartialAsync("_SurveyPageLast")
+    </div>
     <div class="button-wrapper">
-        <button id="prev-btn" onclick="showPreviousPage()">Back</button>
         <button id="next-btn" onclick="showNextPage()">Next</button>
     </div>
 </div>
@@ -28,7 +30,7 @@
 @section Scripts {
     <script>
         let currentPage = 1;
-        const totalPages = 3; 
+        const totalPages = 4; 
 
         function showNextPage() {
             document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
@@ -43,25 +45,6 @@
                 document.getElementById('next-btn').style.display = 'block';
             }
 
-            
-            document.getElementById('prev-btn').style.display = 'block';
-        }
-
-        function showPreviousPage() {
-            document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
-            currentPage--;
-
-            document.getElementById(`survey-page-${currentPage}`).style.display = 'block';
-
-            
-            if (currentPage === 1) {
-                document.getElementById('prev-btn').style.display = 'none';
-            } else {
-                document.getElementById('prev-btn').style.display = 'block';
-            }
-
-            
-            document.getElementById('next-btn').style.display = 'block';
         }
     </script>
 
