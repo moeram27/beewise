@@ -18,5 +18,9 @@ namespace BeeWise.Controllers
         {
             return View();
         }
+        public IActionResult VerbalResults()
+        {
+            return View();
+        }
     }
 }

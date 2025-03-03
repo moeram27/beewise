@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Assets/Images/IQTestResults/percentege-hexagon.63cwe2483i.png",
+      "AssetFile": "Assets/Images/IQTestResults/percentege-hexagon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 16:43:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63cwe2483i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28="
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/IQTestResults/percentege-hexagon.png"
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/IQTestResults/percentege-hexagon.png",
+      "AssetFile": "Assets/Images/IQTestResults/percentege-hexagon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 16:43:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28="
+        }
+      ]
+    },
+    {
       "Route": "Assets/Images/background.b5vfbj6z46.png",
       "AssetFile": "Assets/Images/background.png",
       "Selectors": [],

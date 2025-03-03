@@ -10,6 +10,7 @@ wwwroot\Assets\Images\header-items\arrow.png
 wwwroot\Assets\Images\header-items\burger-menu.svg
 wwwroot\Assets\Images\header-items\close-burgermenu-icon.png
 wwwroot\Assets\Images\header-items\profile-pic.png
+wwwroot\Assets\Images\IQTestResults\percentege-hexagon.png
 wwwroot\Assets\Images\leaderboard-icons\progress-pointer.png
 wwwroot\Assets\Images\leaderboard-icons\second-scorer-icon.png
 wwwroot\Assets\Images\leaderboard-icons\third-scorer-icon.png

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "28ZMkEjEiq7i9tZKpQsDc6crY/3APwDDRuvssTt2Jqc=",
+  "Hash": "KCbN+pbUvgtv6qq2CHfwcfQAgSpb8OcrKnneNjcbtlQ=",
   "Source": "BeeWise",
   "BasePath": "_content/BeeWise",
   "Mode": "Default",
@@ -309,6 +309,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\Images\\header-items\\profile-pic.png"
+    },
+    {
+      "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\percentege-hexagon.png",
+      "SourceId": "BeeWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\",
+      "BasePath": "_content/BeeWise",
+      "RelativePath": "Assets/Images/IQTestResults/percentege-hexagon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "63cwe2483i",
+      "Integrity": "zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\IQTestResults\\percentege-hexagon.png"
     },
     {
       "Identity": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\leaderboard-icons\\progress-pointer.png",
@@ -2490,6 +2511,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-YcwMvDTwHhCBWA54yGqQ/86MwEthl4ljl8iE6Ctz7bI="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/IQTestResults/percentege-hexagon.63cwe2483i.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\percentege-hexagon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 16:43:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63cwe2483i"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/IQTestResults/percentege-hexagon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/IQTestResults/percentege-hexagon.png",
+      "AssetFile": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\percentege-hexagon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 16:43:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28="
         }
       ]
     },
