@@ -12,15 +12,31 @@ namespace BeeWise.Controllers
         public IActionResult SubCategories()
         {
             return View();
-        } 
+        }
 
         public IActionResult SurveyPages()
         {
-            return View();
+            return View("VerbalQuestions/SurveyPages");
         }
+
+        public IActionResult NonVerbalQuestions()
+        {
+            return View("NonVerbalQuestions/NonVerbalTests");
+        }
+
         public IActionResult VerbalResults()
         {
-            return View();
+            return View("VerbalQuestions/VerbalResults");
+        }
+
+        public IActionResult NonVerbalResults()
+        {
+            return View("NonVerbalQuestions/NonVerbalResults");
+        }
+
+        public IActionResult MathTests()
+        {
+            return View("MathQuestions/MathTests");
         }
     }
 }

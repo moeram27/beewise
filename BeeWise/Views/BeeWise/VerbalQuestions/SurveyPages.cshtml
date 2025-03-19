@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "SurveyPages";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/survey-pages.css" />
+}
+
+
+<div id="survey-container">
+    <!-- Performance-Based Evaluation Modal -->
+    <div class="performance-modal-overlay">
+        <div id="performance-modal" class="modal">
+            <div class="performance-modal-content">
+                <button class="close-modal">&times;</button>
+                <h4 class="modal-title">Performance-Based Evaluation – Know How You're Scored!</h4>
+                <div class="modal-body">
+                    <img class="performance-modal-icon" src="@Url.Content("~/Assets/Images/modal-icons/performane-chart-icon.png")" alt="category-icon-iq">
+                    <p><strong>Your Results Will Be Calculated Based On Multiple Performance Factors, Including:</strong></p>
+                    <ul class="performance-factors">
+                        <li>&#9989; Accuracy: How Many Correct Answers You Get.</li>
+                        <li>&#9203; Speed: How Quickly You Complete The Test.</li>
+                        <li>
+                            &#129504; Memory: Your Ability To Recall And Process Information.
+                        </li>
+                        <li>&#9889; Reaction Time: How Fast You Respond To Certain Challenges.</li>
+                        <li>&#128269; Pattern Recognition: Your Ability To Detect Logical Sequences.</li>
+                    </ul>
+                    <p>The Higher Your Performance, The Better Your Overall Score!</p>
+                </div>
+                <button class="modal-btn" onclick="closeModal()">Got it! Start Test</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="survey-page-1">
+        @await Html.PartialAsync("VerbalQuestions/_SurveyPage1")
+    </div>
+    <div id="survey-page-2" style="display:none;">
+        @await Html.PartialAsync("VerbalQuestions/_SurveyPage2")
+    </div>
+    <div id="survey-page-3" style="display:none;">
+        @await Html.PartialAsync("VerbalQuestions/_SurveyPage3")
+    </div>
+    <div id="survey-page-4" style="display:none;">
+        @await Html.PartialAsync("VerbalQuestions/_SurveyPageLast")
+    </div>
+    <div class="button-wrapper">
+        <button id="next-btn" onclick="showNextPage()">Next</button>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script>
+        let currentPage = 1;
+        const totalPages = 4;
+
+        function showNextPage() {
+            document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
+            currentPage++;
+
+            document.getElementById(`survey-page-${currentPage}`).style.display = 'block';
+
+
+            if (currentPage === totalPages) {
+                document.getElementById('next-btn').style.display = 'none';
+            } else {
+                document.getElementById('next-btn').style.display = 'block';
+            }
+        }
+
+    </script>
+    <script>
+        function closeModal() {
+            document.querySelector(".performance-modal-overlay").style.display = "none";
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            // Get modal elements
+            const modalOverlay = document.querySelector(".performance-modal-overlay");
+            const closeButton = document.querySelector(".close-modal");
+
+            // Open modal on page load
+            modalOverlay.style.display = "block";
+
+            // Close modal when clicking the close button
+            closeButton.addEventListener("click", closeModal);
+
+            // Close modal when clicking outside the modal
+            modalOverlay.addEventListener("click", function (event) {
+                if (event.target === modalOverlay) {
+                    closeModal();
+                }
+            });
+        });
+
+
+    </script>
+}

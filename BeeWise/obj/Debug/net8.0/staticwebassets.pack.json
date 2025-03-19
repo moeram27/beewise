@@ -5,8 +5,36 @@
       "PackagePath": "staticwebassets\\BeeWise.qj2cl9myh3.bundle.scp.css"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\fireworks-animation.gif",
+      "PackagePath": "staticwebassets\\Assets\\Images\\IQTestResults\\fireworks-animation.gif"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\percentege-hexagon.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\IQTestResults\\percentege-hexagon.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\MathTests\\math-question-1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\MathTests\\math-question-1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-2.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-2.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-3.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-3.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-4.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-4.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-1.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-1.png"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\background.png",
@@ -89,6 +117,10 @@
       "PackagePath": "staticwebassets\\Assets\\Images\\logos\\logo.png"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\modal-icons\\performane-chart-icon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\modal-icons\\performane-chart-icon.png"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\scorers\\scorer1.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\scorers\\scorer1.png"
     },
@@ -161,6 +193,10 @@
       "PackagePath": "staticwebassets\\Assets\\favicon.ico"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\VerbalResuts.css",
+      "PackagePath": "staticwebassets\\css\\VerbalResuts.css"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
@@ -177,8 +213,8 @@
       "PackagePath": "staticwebassets\\css\\subcategories.css"
     },
     {
-      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-page-1.css",
-      "PackagePath": "staticwebassets\\css\\survey-page-1.css"
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-pages.css",
+      "PackagePath": "staticwebassets\\css\\survey-pages.css"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",

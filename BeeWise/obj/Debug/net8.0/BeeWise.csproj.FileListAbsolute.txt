@@ -26,10 +26,10 @@ C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\staticwebassets\msbuild.build.BeeWis
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BeeWise.props
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BeeWise.props
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\staticwebassets.pack.json
-C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.dll
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\refint\BeeWise.dll
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.pdb
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.genruntimeconfig.cache
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\ref\BeeWise.dll
 C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\BeeWise.sourcelink.json
+C:\dev\src\BeeWise\BeeWise\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

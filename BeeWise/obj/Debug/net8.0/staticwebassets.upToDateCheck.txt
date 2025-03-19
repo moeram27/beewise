@@ -10,6 +10,7 @@ wwwroot\Assets\Images\header-items\arrow.png
 wwwroot\Assets\Images\header-items\burger-menu.svg
 wwwroot\Assets\Images\header-items\close-burgermenu-icon.png
 wwwroot\Assets\Images\header-items\profile-pic.png
+wwwroot\Assets\Images\IQTestResults\fireworks-animation.gif
 wwwroot\Assets\Images\IQTestResults\percentege-hexagon.png
 wwwroot\Assets\Images\leaderboard-icons\progress-pointer.png
 wwwroot\Assets\Images\leaderboard-icons\second-scorer-icon.png
@@ -20,6 +21,13 @@ wwwroot\Assets\Images\list-icons\list-check-icon-premium.png
 wwwroot\Assets\Images\logos\Group 8.png
 wwwroot\Assets\Images\logos\inline-logo.png
 wwwroot\Assets\Images\logos\logo.png
+wwwroot\Assets\Images\MathTests\math-question-1.png
+wwwroot\Assets\Images\modal-icons\performane-chart-icon.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-1.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-2.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-3.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-4.png
+wwwroot\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-1.png
 wwwroot\Assets\Images\scorers\scorer1.png
 wwwroot\Assets\Images\scorers\scorer2.png
 wwwroot\Assets\Images\scorers\top-scorer.png
@@ -41,7 +49,8 @@ wwwroot\css\index.css
 wwwroot\css\lang-menu.css
 wwwroot\css\site.css
 wwwroot\css\subcategories.css
-wwwroot\css\survey-page-1.css
+wwwroot\css\survey-pages.css
+wwwroot\css\VerbalResuts.css
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map

@@ -1,0 +1,107 @@
+﻿.results-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 15px;
+    text-align: center;
+    margin-block:10px
+}
+
+.user-test-score {
+    color: var(--bw-orange);
+}
+
+.user-iq-level {
+    font-style: italic;
+    color: var(--bw-orange);
+    font-weight: 800;
+}
+
+.badge-name {
+    color: var(--bw-orange);
+    font-weight: 800;
+}
+ul.feedback-list {
+    max-width: 500px;
+    text-align: justify;
+}
+
+    ul.feedback-list li {
+        margin-bottom: 10px;
+    }
+
+    img.hexagon-skills {
+        width: clamp(180px, 23vw, 435px);
+    }
+
+.category-weekly-ranking {
+    color: var(--bw-orange);
+}
+
+.button-container{
+    display:flex;
+    flex-direction:row;
+    position:relative;
+    gap:25px;
+}
+
+#home-btn {
+    background-color: var(--bw-blue);
+    color: var(--bw-black);
+    padding: clamp(5px, 1vw, 15px) clamp(10px, 1.2vw, 15px);
+    border: none;
+    margin-right: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: clamp(10px, .8vw, 20px)
+}
+
+    #home-btn:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+
+#retake-test {
+    background-color: var(--bw-orange);
+    color: var(--bw-black);
+    padding: clamp(5px, 1vw, 15px) clamp(10px, 1.2vw, 15px);
+    border: none;
+    margin-right: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: clamp(10px, .8vw, 20px)
+}
+
+    #retake-test:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+
+.retake-test-condition {
+    position: absolute;
+    top: 100%;
+    left: 7%;
+    color: #FF0000;
+    font-size: 9px;
+    font-style: italic;
+}
+#next-level-test {
+    background-color: var(--bw-orange);
+    color: var(--bw-black);
+    padding: clamp(5px, 1vw, 15px) clamp(10px, 1.2vw, 15px);
+    border: none;
+    margin-right: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: clamp(10px, .8vw, 20px)
+}
+
+    #next-level-test:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+

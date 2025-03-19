@@ -24,36 +24,56 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/MathTests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXE1hdGhUZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/_MathQuestionPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXF9NYXRoUXVlc3Rpb25QYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/_MathQuestionPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXF9NYXRoUXVlc3Rpb25QYWdlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/NonVerbalTests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxOb25WZXJiYWxRdWVzdGlvbnNcTm9uVmVyYmFsVGVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/_NonVerbalTestPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxOb25WZXJiYWxRdWVzdGlvbnNcX05vblZlcmJhbFRlc3RQYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/SubCategories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxTdWJDYXRlZ29yaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/SurveyPages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxTdXJ2ZXlQYWdlcy5jc2h0bWw=
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/SurveyPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcU3VydmV5UGFnZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalIQResultLoading.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxJUVJlc3VsdExvYWRpbmcuY3NodG1s
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/VerbalIQResultLoading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcVmVyYmFsSVFSZXN1bHRMb2FkaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalResults.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxSZXN1bHRzLmNzaHRtbA==
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/VerbalResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcVmVyYmFsUmVzdWx0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPage1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZTEuY3NodG1s
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/_SurveyPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcX1N1cnZleVBhZ2UxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPage2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZTIuY3NodG1s
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/_SurveyPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcX1N1cnZleVBhZ2UyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPage3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZTMuY3NodG1s
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/_SurveyPage3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcX1N1cnZleVBhZ2UzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/_SurveyPageLast.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxfU3VydmV5UGFnZUxhc3QuY3NodG1s
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/VerbalQuestions/_SurveyPageLast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxWZXJiYWxRdWVzdGlvbnNcX1N1cnZleVBhZ2VMYXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/src/BeeWise/BeeWise/Views/Shared/Error.cshtml]

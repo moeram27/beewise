@@ -7,13 +7,13 @@
             <div class="question-timer">
                 <p>1:10</p>
             </div>
-            <div class="timebar">
-                <div class="elapsed-time">
+
+                <div class="last-timebar">
+
                 </div>
-            </div>
 
             <h4 class="question-counter">
-                Question 3/20
+                Question 20/20
             </h4>
 
             <p class="survey-question">
@@ -41,11 +41,13 @@
                     <h5>I Don’t Know</h5>
                 </div>
             </div>
+ 
+            
+                <a asp-controller="BeeWise" asp-action="VerbalResults" class="home-redirect">
             <button id="home-btn">
-                <a asp-controller="BeeWise" asp-action="" class="home-redirect">
-                    Home
-                </a>
+                    Get Results
             </button>
+                </a>
         </section>
 
     </div>
