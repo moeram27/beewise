@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "MathTests";
+}
+
+
+<div>
+
+    <section class="question-page">
+        <h3 class="question-page-title">LOGICAL/MATH IQ TESTS</h3>
+
+        <div class="question-timer">
+            <p>2:10</p>
+        </div>
+        <div class="timebar">
+            <div class="elapsed-time">
+            </div>
+        </div>
+
+        <h4 class="question-counter">
+            Question 3/20
+        </h4>
+
+        <p class="survey-question">
+            Can you solve this? <br />
+            3x + 5 = 14
+        </p>
+
+        <div class="answer-options-wrapper">
+            <div class="input-answer-option">
+                <h3>X = </h3>
+                <form action="/" method="post" id="answer-form">
+                    <input type="number" name="answer" id="answer" required />
+                </form>
+            </div>
+        </div>
+        <a asp-controller="BeeWise" asp-action="MathResults" class="home-redirect">
+            <button id="results-btn">
+                Confirm and Get Results
+            </button>
+        </a>
+    </section>
+
+
+</div>

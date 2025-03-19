@@ -26,7 +26,9 @@
                         <li>&#9889; Reaction Time: How Fast You Respond To Certain Challenges.</li>
                         <li>&#128269; Pattern Recognition: Your Ability To Detect Logical Sequences.</li>
                     </ul>
-                    <p>The Higher Your Performance, The Better Your Overall Score!</p>
+                    <p>
+                        <strong>The Higher Your Performance, The Better Your Overall Score!</strong>
+                    </p>
                 </div>
                 <button class="modal-btn" onclick="closeModal()">Got it! Start Test</button>
             </div>
@@ -36,13 +38,14 @@
     <div id="survey-page-1">
         @await Html.PartialAsync("MathQuestions/_MathQuestionPage1")
     </div>
-     <div id="survey-page-2" style="display:none;">
+    <div id="survey-page-2" style="display:none;">
         @await Html.PartialAsync("MathQuestions/_MathQuestionPage2")
     </div>
-    @*    
+
     <div id="survey-page-3" style="display:none;">
-        @await Html.PartialAsync("_SurveyPage3")
+        @await Html.PartialAsync("MathQuestions/_MathQuestionPage3")
     </div>
+    @*
     <div id="survey-page-4" style="display:none;">
         @await Html.PartialAsync("_SurveyPageLast")
     </div> *@
@@ -59,19 +62,34 @@
         const totalPages = 1; /* <--- for now */
 
         function showNextPage() {
-            document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
-            currentPage++;
+                   const form = document.querySelector('form');
+                   if (form && form.checkValidity()) {
+                       form.submit();
+                   } else {
 
-            document.getElementById(`survey-page-${currentPage}`).style.display = 'block';
+                       document.getElementById(`survey-page-${currentPage}`).style.display = 'none';
+                       currentPage++;
+
+                       document.getElementById(`survey-page-${currentPage}`).style.display = 'block';
+
+                       if (currentPage === totalPages) {
+                           document.getElementById('next-btn').style.display = 'none';
+                       } else {
+                           document.getElementById('next-btn').style.display = 'block';
+                       }
+                   }
+               }
 
 
-            if (currentPage === totalPages) {
-                document.getElementById('next-btn').style.display = 'none';
-            } else {
-                document.getElementById('next-btn').style.display = 'block';
-            }
-        }
+        $(document).ready(function () {
+            $(".math-answer-option").click(function () {
+                $(this).toggleClass("selected");
+            });
 
+            $("#next").click(function () {
+                $(".math-answer-option").removeClass("selected");
+            });
+        });
     </script>
     <script>
         function closeModal() {

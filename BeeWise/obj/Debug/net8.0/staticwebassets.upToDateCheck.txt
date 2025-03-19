@@ -10,8 +10,6 @@ wwwroot\Assets\Images\header-items\arrow.png
 wwwroot\Assets\Images\header-items\burger-menu.svg
 wwwroot\Assets\Images\header-items\close-burgermenu-icon.png
 wwwroot\Assets\Images\header-items\profile-pic.png
-wwwroot\Assets\Images\IQTestResults\fireworks-animation.gif
-wwwroot\Assets\Images\IQTestResults\percentege-hexagon.png
 wwwroot\Assets\Images\leaderboard-icons\progress-pointer.png
 wwwroot\Assets\Images\leaderboard-icons\second-scorer-icon.png
 wwwroot\Assets\Images\leaderboard-icons\third-scorer-icon.png
@@ -45,12 +43,14 @@ wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-1.png
 wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-2.png
 wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-3.png
 wwwroot\Assets\Images\subcategory-icons\subcategpry-icon-4.png
+wwwroot\Assets\Images\TestResults\fireworks-animation.gif
+wwwroot\Assets\Images\TestResults\percentege-hexagon.png
 wwwroot\css\index.css
 wwwroot\css\lang-menu.css
 wwwroot\css\site.css
 wwwroot\css\subcategories.css
 wwwroot\css\survey-pages.css
-wwwroot\css\VerbalResuts.css
+wwwroot\css\TestsResuts.css
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map

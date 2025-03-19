@@ -10,35 +10,24 @@
 <div class="results-content-wrapper">
 
     <h4 class="iq-test-title-result">
-        VERBAL IQ TESTS
+        Logical/Math IQ Tests
     </h4>
 
     <h2 class="user-score">
-        YOUR SCORE: <span class="user-verbal-test-score">
-            130
+        YOUR SCORE: <span class="user-math-test-score">
+            110
         </span>
     </h2>
 
     <div class="user-positioning">
 
         <p class="user-iq-level">
-            Genius Level
+            Number Master
         </p>
         <p class="user-iq-position">
-            You Scored Higher Than 85% Of Test-Takers
+            You Scored Higher Than 80% Of Test-Takers
         </p>
     </div>
-
-    <div class="badge-earn">
-
-        <h4 class="badge-announcement">
-            You Have Earned A New Badge!
-        </h4>
-        <h5 class="badge-name">
-            Pattern Prodigy
-        </h5>
-    </div>
-    <img class="fireworks" src="@Url.Content("~/Assets/Images/TestResults/fireworks-animation.gif")" alt="Alternate Text" />
 
     <div class="skills-hexagon">
         <h5 class="hexagon-title">
@@ -49,24 +38,27 @@
 
     <div class="test-feedback">
         <ul class="feedback-list">
-            <li>Your vocabulary is exceptional!</li>
             <li>
-                Your analogy-solving skills can be enhanced. Try practicing with
-                logic-based puzzles and word relationship exercises
+                our logical deduction skills are outstanding!
+                You have a strong ability to break down problems and find solutions quickly.
+            </li>
+            <li>
+                Your pattern recognition is solid, but there’s room for improvement.
+                Try practicing numerical sequences and logic-based puzzles.
             </li>
         </ul>
     </div>
 
     <p class="category-weekly-ranking">
-        You ranked #12 this week in the Verbal IQ category!
+        You ranked #8 in this week’s Math IQ Challenge!
     </p>
 
     <div class="button-container">
-        <a asp-controller="BeeWise" asp-action="SurveyPages" class="survey-redirect">
+        <a asp-controller="BeeWise" asp-action="MathTests" class="math-redirect">
 
-        <button id="retake-test">
-            Retake the test
-        </button>
+            <button id="retake-test">
+                Retake the test
+            </button>
         </a>
 
         <p class="retake-test-condition">

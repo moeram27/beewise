@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/dev/src/BeeWise/BeeWise/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/MathResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXE1hdGhSZXN1bHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/MathTests.cshtml]
@@ -34,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/_MathQuestionPage2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXF9NYXRoUXVlc3Rpb25QYWdlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/MathQuestions/_MathQuestionPage3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXF9NYXRoUXVlc3Rpb25QYWdlMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/NonVerbalTests.cshtml]
@@ -91,6 +103,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/dev/src/BeeWise/BeeWise/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/Account/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfTG9naW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bbxhbm9zfo
 
 [C:/dev/src/BeeWise/BeeWise/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

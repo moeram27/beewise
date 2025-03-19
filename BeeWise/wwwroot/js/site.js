@@ -8,7 +8,7 @@ const langsArrow = $('.lang-dropdown-wrapper');
 const burgerMenu = $('.burger-menu');
 const sidebarBackdrop = $('.sidebar-backdrop');
 let isSidebarOpen = true;
-const logicLegend = $(".info-badge-wrapper");
+//const logicLegend = $(".info-badge-wrapper");
 const modalOverlay = $(".info-modal-overlay");
 let isModalOpen = false;
 const openModalBtn = $(".open-modal");
@@ -35,18 +35,18 @@ function toggleSideBar(el) {
     isSidebarOpen = !isSidebarOpen;
 }
 
-// Function to toggle Logic Legend visibility
-logicLegend.click(function (event) {
-    event.stopPropagation(); // Prevent event bubbling
+//// Function to toggle Logic Legend visibility
+//logicLegend.click(function (event) {
+//    event.stopPropagation(); // Prevent event bubbling
 
-    if ($(this).hasClass("collapsed")) {
-        // Expand the legend
-        $(this).animate({ maxWidth: "190px", paddingLeft: "10px", paddingRight: "10px" }, 300).removeClass("collapsed");
-    } else {
-        // Collapse the legend, keeping only the curved section & info icon visible
-        $(this).animate({ maxWidth: "50px", paddingLeft: "5px", paddingRight: "5px" }, 300).addClass("collapsed");
-    }
-});
+//    if ($(this).hasClass("collapsed")) {
+//        // Expand the legend
+//        $(this).animate({ maxWidth: "190px", paddingLeft: "10px", paddingRight: "10px" }, 300).removeClass("collapsed");
+//    } else {
+//        // Collapse the legend, keeping only the curved section & info icon visible
+//        $(this).animate({ maxWidth: "50px", paddingLeft: "5px", paddingRight: "5px" }, 300).addClass("collapsed");
+//    }
+//});
 
 // Function to open modal when clicking the info icon
 openModalBtn.click(function (event) {

@@ -8,8 +8,12 @@
     margin-block:10px
 }
 
-.user-test-score {
+.user-verbal-test-score {
     color: var(--bw-orange);
+}
+
+.math-verbal-test-score {
+    color: var(--bw-blue);
 }
 
 .user-iq-level {
@@ -23,8 +27,8 @@
     font-weight: 800;
 }
 ul.feedback-list {
-    max-width: 500px;
-    text-align: justify;
+    text-align: start;
+    width: clamp(220px, 24vw, 500px);
 }
 
     ul.feedback-list li {
@@ -34,6 +38,13 @@ ul.feedback-list {
     img.hexagon-skills {
         width: clamp(180px, 23vw, 435px);
     }
+
+img.fireworks {
+    position: absolute;
+    top: clamp(140px, 11vw, 220px);
+    left: 30vw;
+    width: clamp(45px, 5vw, 90px);
+}
 
 .category-weekly-ranking {
     color: var(--bw-orange);
@@ -104,4 +115,5 @@ ul.feedback-list {
         background-color: var(--bw-black);
         color: var(--bw-yellow);
     }
+
 

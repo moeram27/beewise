@@ -216,42 +216,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\header-items\profile-pic.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\IQTestResults\fireworks-animation.gif'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BeeWise</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BeeWise</BasePath>
-      <RelativePath>Assets/Images/IQTestResults/fireworks-animation.gif</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>swziorf3me</Fingerprint>
-      <Integrity>TJru/678eSc8ydBXdkGmQJx3nmydZMm04D3QDmARvt8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\IQTestResults\fireworks-animation.gif'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\IQTestResults\percentege-hexagon.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BeeWise</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BeeWise</BasePath>
-      <RelativePath>Assets/Images/IQTestResults/percentege-hexagon.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>63cwe2483i</Fingerprint>
-      <Integrity>zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\IQTestResults\percentege-hexagon.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\leaderboard-icons\progress-pointer.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BeeWise</SourceId>
@@ -846,6 +810,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\subcategory-icons\subcategpry-icon-4.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\TestResults\fireworks-animation.gif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/TestResults/fireworks-animation.gif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>swziorf3me</Fingerprint>
+      <Integrity>TJru/678eSc8ydBXdkGmQJx3nmydZMm04D3QDmARvt8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\TestResults\fireworks-animation.gif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\TestResults\percentege-hexagon.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/TestResults/percentege-hexagon.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>63cwe2483i</Fingerprint>
+      <Integrity>zqRTe/iBm1nTbe6vjORtap1vIqxPc+r8JmLwLFtbb28=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\TestResults\percentege-hexagon.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BeeWise.qj2cl9myh3.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>BeeWise</SourceId>
@@ -876,8 +876,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z0de5wiet1</Fingerprint>
-      <Integrity>c35m4MBmGQsdZHNdl/xhZXxUEBtiUO0T4+mX+eYrZY0=</Integrity>
+      <Fingerprint>l5v5pazogy</Fingerprint>
+      <Integrity>+X28xFH8BMwkEp0yQC+Ruz18NmsRzHB+ozIWWMpYNSI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</OriginalItemSpec>
@@ -894,8 +894,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>aj63crj9zf</Fingerprint>
-      <Integrity>1ovSN9guk2ca5vU3IknbP20h4EDpcDcgM0ANr2+uyZ4=</Integrity>
+      <Fingerprint>jy3w5c3u18</Fingerprint>
+      <Integrity>C2Ew1IQOKkNWvFgupc6ZL/FucDv+K1DdLstBVi/w1Is=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\lang-menu.css'))</OriginalItemSpec>
@@ -948,29 +948,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>y2gkmq4ea8</Fingerprint>
-      <Integrity>aszUeCV9c0snE2VuVI+rSqUeZQOxlET1FeRX2ZZmpVU=</Integrity>
+      <Fingerprint>qn7x8hd3zi</Fingerprint>
+      <Integrity>+t78XosXJQXSCiuGxBxli8yN1TJirCI5Yialke+HczE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-pages.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\VerbalResuts.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\TestsResuts.css'))">
       <SourceType>Package</SourceType>
       <SourceId>BeeWise</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BeeWise</BasePath>
-      <RelativePath>css/VerbalResuts.css</RelativePath>
+      <RelativePath>css/TestsResuts.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5lsf125qsi</Fingerprint>
-      <Integrity>effbLixuYZVJOwTMDWkp54kevWyXsXJpLzomFB85JSw=</Integrity>
+      <Fingerprint>1y58y3oax7</Fingerprint>
+      <Integrity>5+HNXgIgxAmVriHYPfrpZUoLjE1gZ1hXBOGoNLj7CPU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\VerbalResuts.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\TestsResuts.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -984,8 +984,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yfat6qcyp5</Fingerprint>
-      <Integrity>Hoj55EQZqDFE2HWmqy690P656ZVswmS2+3UHmur2KJE=</Integrity>
+      <Fingerprint>yk9wi53pza</Fingerprint>
+      <Integrity>gu7V/iBPul5lKpp8+PRSLxDKcRZxDBFA8aHG8WhnqW4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>

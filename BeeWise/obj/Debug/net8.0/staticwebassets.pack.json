@@ -5,14 +5,6 @@
       "PackagePath": "staticwebassets\\BeeWise.qj2cl9myh3.bundle.scp.css"
     },
     {
-      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\fireworks-animation.gif",
-      "PackagePath": "staticwebassets\\Assets\\Images\\IQTestResults\\fireworks-animation.gif"
-    },
-    {
-      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\IQTestResults\\percentege-hexagon.png",
-      "PackagePath": "staticwebassets\\Assets\\Images\\IQTestResults\\percentege-hexagon.png"
-    },
-    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\MathTests\\math-question-1.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\MathTests\\math-question-1.png"
     },
@@ -35,6 +27,14 @@
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-1.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\TestResults\\fireworks-animation.gif",
+      "PackagePath": "staticwebassets\\Assets\\Images\\TestResults\\fireworks-animation.gif"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\TestResults\\percentege-hexagon.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\TestResults\\percentege-hexagon.png"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\background.png",
@@ -193,8 +193,8 @@
       "PackagePath": "staticwebassets\\Assets\\favicon.ico"
     },
     {
-      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\VerbalResuts.css",
-      "PackagePath": "staticwebassets\\css\\VerbalResuts.css"
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\TestsResuts.css",
+      "PackagePath": "staticwebassets\\css\\TestsResuts.css"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\index.css",

@@ -38,5 +38,10 @@ namespace BeeWise.Controllers
         {
             return View("MathQuestions/MathTests");
         }
+
+        public IActionResult MathResults()
+        {
+            return View("MathQuestions/MathResults");
+        }
     }
 }
