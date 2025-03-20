@@ -7,6 +7,7 @@
 .gs-selected-lang, .gs-lang, .gs-lang a {
     width: 100%;
     color: var(--bw-black);
+    text-decoration: none;
 }
 
 .gs-lang-menu .gs-lang {
@@ -69,9 +70,10 @@
     border-radius: 10px;
     padding: 0;
     text-align: center;
-    background-color:var(--bw-white);
+    background-color: var(--bw-white);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
     font-size: inherit;
+    list-style: none;
 }
 
 

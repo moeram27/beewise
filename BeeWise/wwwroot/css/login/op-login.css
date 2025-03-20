@@ -1,0 +1,67 @@
+﻿input#code {
+    border: unset;
+    width: 35px;
+    padding: 7px 5px;
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    box-sizing: content-box;
+    text-align: center;
+}
+
+input#msisdn {
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.1);
+    border: unset;
+    width: 120px;
+    padding: 7px 20px;
+    border-radius: 5px;
+    box-sizing: content-box;
+    text-align: center;
+}
+
+h3.login-title {
+    color: var(--bw-orange);
+    margin-bottom: 10px;
+    font-size: clamp(14px, 1.4vw, 20px);
+}
+
+h4.signin-option {
+    color: var(--bw-black);
+    font-size: clamp(13px, 1.1vw, 18px);
+}
+
+p.signin-instructions {
+    font-size: clamp(12px, 1vw, 16px);
+    color: var(--bw-black);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+button.login-btn {
+    position: absolute;
+    top: 125%;
+    left: 25%;
+    background-color: var(--bw-orange);
+    color: var(--bw-black);
+    padding: clamp(5px, 1vw, 10px) clamp(10px, 1.2vw, 20px);
+    border: none;
+    margin-right: 2.5px;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: clamp(10px, .8vw, 20px)
+}
+
+    button.login-btn:hover {
+        cursor: pointer;
+        background-color: var(--bw-black);
+        color: var(--bw-yellow);
+    }
+
+@media (max-width: 760px) {
+    button.login-btn {
+        left: 35%
+    }
+}

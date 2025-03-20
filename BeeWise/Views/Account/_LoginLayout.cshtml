@@ -3,11 +3,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - BeeWise</title>
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/BeeWise.styles.css" asp-append-version="true" />
+    <title>@ViewData["Title"] - BeeWise Login</title>
+    <link rel="stylesheet" href="~/css/login/login.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/lang-menu.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/subcategories.css" asp-append-version="true" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
@@ -15,77 +13,26 @@
     @RenderSection("Styles", required: false)
 
 </head>
-<header class="header">
-    <div class="logo-div">
-        <button class="mobile-burger-menu burger-menu" onclick="toggleSideBar(this)">
-            <img src="@Url.Content("~/Assets/Images/header-items/burger-menu.svg")" alt="">
-        </button>
-
-        <a asp-controller="BeeWise" asp-action="" class="home-redirect">
+<header class="login-header">
+    <div class="gs-lang-menu">
+        <div class="lang-dropdown-wrapper ">
+            <button class="gs-selected-lang" onclick="openLangMenu(this)"><span>EN</span></button>
+        </div>
+        <ul class="gs-langs-wrapper">
+            <li class="gs-lang">
+                <a href="">AR</a>
+            </li>
+        </ul>
+    </div>
+    </div>
+    <div class="login-logo">
+        <a asp-controller="Account" asp-action="" class="home-redirect">
             <img class="logo" src="@Url.Content("~/Assets/Images/logos/logo.png")">
         </a>
-        <div class="divider"></div>
-        <div class="gs-lang-menu">
-            <div class="lang-dropdown-wrapper ">
-                <button class="gs-selected-lang" onclick="openLangMenu(this)"><span>EN</span></button>
-            </div>
-            <ul class="gs-langs-wrapper">
-                <li class="gs-lang">
-                    <a href="">AR</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="user-options-div">
-        <!-- <button class="get-started-button">
-            Get Started
-        </button> -->
-        <div class="user-info">
-            <div class="profile-photo">
-                <img src="@Url.Content("~/Assets/Images/header-items/profile-pic.png")" alt="">
-            </div>
-            <div class="username">
-                <p>Fouad Hariss</p>
-            </div>
-            <button class="burger-menu" onclick="toggleSideBar(this)">
-                <img src="@Url.Content("~/Assets/Images/header-items/burger-menu.svg")" alt="">
-            </button>
-        </div>
     </div>
 </header>
 <body>
     <div class="content-wrapper">
-        <div class="sidebar-backdrop">
-            <div class="sidebar-wrapper">
-                <div class="sidebar-redirections">
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-idcon-beehive.png")" alt="">
-                        <p>Home</p>
-                    </div>
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-1.png")" alt="">
-                        <p>Leaderboard</p>
-                    </div>
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-2.png")" alt="">
-                        <p>My Profile</p>
-                    </div>
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-3.png")" alt="">
-                        <p>Unsubscribe</p>
-                    </div>
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-4.png")" alt="">
-                        <p>Packages</p>
-                    </div>
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-5.png")" alt="">
-                        <p>Privacy Policy</p>
-                    </div>
-                </div>
-                <button class="sidebar-logout-button">Logout</button>
-            </div>
-        </div>
         <div class="container">
             <main role="main" class="pb-3">
                 @RenderBody()
@@ -93,19 +40,6 @@
         </div>
     </div>
 
-    <footer class="footer">
-        <div class="footer-content">
-            <div class="footer-logo">
-                <img src="@Url.Content("~/Assets/Images/logos/logo.png")" alt="Beewise Logo" />
-            </div>
-            <div class="footer-links">
-                <a href="/about-us">About Us</a>
-                <a href="/contact-us">Contact Us</a>
-                <a href="/privacy-policy">Privacy Policy</a>
-                <a href="/terms-and-conditions">Terms & Conditions</a>
-            </div>
-        </div>
-    </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>window.jQuery || document.write('<script src="~/lib/jquery/dist/jquery.min.js"><\/script>');</script>
 

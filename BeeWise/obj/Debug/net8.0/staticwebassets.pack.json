@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BeeWise.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BeeWise.qj2cl9myh3.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BeeWise.o00gpl5xwm.bundle.scp.css"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\MathTests\\math-question-1.png",
@@ -105,6 +105,10 @@
       "PackagePath": "staticwebassets\\Assets\\Images\\list-icons\\list-check-icon.png"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\login\\login-background.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\login\\login-background.png"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\Group 8.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\logos\\Group 8.png"
     },
@@ -203,6 +207,14 @@
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\lang-menu.css",
       "PackagePath": "staticwebassets\\css\\lang-menu.css"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\login.css",
+      "PackagePath": "staticwebassets\\css\\login\\login.css"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\op-login.css",
+      "PackagePath": "staticwebassets\\css\\login\\op-login.css"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",

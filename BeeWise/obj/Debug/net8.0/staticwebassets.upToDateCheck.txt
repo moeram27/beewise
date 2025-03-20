@@ -16,6 +16,7 @@ wwwroot\Assets\Images\leaderboard-icons\third-scorer-icon.png
 wwwroot\Assets\Images\leaderboard-icons\top-scorer-icon.png
 wwwroot\Assets\Images\list-icons\list-check-icon.png
 wwwroot\Assets\Images\list-icons\list-check-icon-premium.png
+wwwroot\Assets\Images\login\login-background.png
 wwwroot\Assets\Images\logos\Group 8.png
 wwwroot\Assets\Images\logos\inline-logo.png
 wwwroot\Assets\Images\logos\logo.png
@@ -47,6 +48,8 @@ wwwroot\Assets\Images\TestResults\fireworks-animation.gif
 wwwroot\Assets\Images\TestResults\percentege-hexagon.png
 wwwroot\css\index.css
 wwwroot\css\lang-menu.css
+wwwroot\css\login\login.css
+wwwroot\css\login\op-login.css
 wwwroot\css\site.css
 wwwroot\css\subcategories.css
 wwwroot\css\survey-pages.css
