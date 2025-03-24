@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Non Verbal IQ Results";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="~/css/TestsResuts.css" />
+}
+
+<div class="results-content-wrapper">
+
+    <h4 class="iq-test-title-result">
+        NON VERBAL IQ TESTS
+    </h4>
+
+    <h2 class="non-verbal-user-score">
+        YOUR SCORE: <span class="user-verbal-test-score">
+            125
+        </span>
+    </h2>
+
+    <div class="user-positioning">
+
+        <p class="user-iq-level">
+            Advanced Thinker
+        </p>
+        <p class="user-iq-position">
+            You Scored Higher Than 75% Of Test-Takers
+        </p>
+    </div>
+
+    <div class="badge-earn">
+
+        <h4 class="badge-announcement">
+            You Have Earned A New Badge!
+        </h4>
+        <h5 class="badge-name">
+            Pattern Prodigy
+        </h5>
+    </div>
+    <img class="fireworks" src="@Url.Content("~/Assets/Images/TestResults/fireworks-animation.gif")" alt="Alternate Text" />
+
+    <div class="skills-hexagon">
+        <h5 class="hexagon-title">
+            Skills Breakdown
+        </h5>
+        <img class="hexagon-skills" src="@Url.Content("~/Assets/Images/TestResults/percentege-hexagon.png")" alt="Alternate Text" />
+    </div>
+
+    <div class="test-feedback">
+        <ul class="feedback-list">
+            <li>You have a strong ability to recognize complex patterns quickly.<br />
+                This means you are great at solving puzzles and logic-based challenges.</li>
+            <li>
+                Your spatial reasoning could use improvement. <br />
+                Try practicing 3D visualization exercises and rotation puzzles to enhance this skill
+            </li>
+        </ul>
+    </div>
+
+    <p class="category-weekly-ranking">
+        You ranked #5 in this week’s Non-Verbal IQ Challenge!
+    </p>
+
+    <div class="button-container">
+        <a asp-controller="BeeWise" asp-action="NonVerbalQuestions" class="survey-redirect">
+
+            <button id="retake-test">
+                Retake the test
+            </button>
+        </a>
+
+        <p class="retake-test-condition">
+            If the score is low
+        </p>
+
+        <a asp-controller="BeeWise" asp-action="SubCategories" class="categories-redirect">
+            <button id="next-level-test">
+                Challenge Yourself With New Test
+            </button>
+        </a>
+    </div>
+
+    <a asp-controller="BeeWise" asp-action="" class="home-redirect">
+        <button id="home-btn">
+            Go Home
+        </button>
+    </a>
+</div>

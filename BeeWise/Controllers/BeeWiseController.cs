@@ -4,6 +4,7 @@ namespace BeeWise.Controllers
 {
     public class BeeWiseController : Controller
     {
+
         public IActionResult Index()
         {
             return View();

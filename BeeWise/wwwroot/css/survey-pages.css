@@ -161,17 +161,17 @@
 
 .performance-modal-content {
     background: white;
-    padding: 20px 35px;
+    padding: 15px 30px;
     text-align: left;
-    width: clamp(270px, 35vw, 665px);
+    width: clamp(290px, 35vw, 665px);
     max-height: 80vh;
     overflow-y: auto;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
     position: relative;
     display: flex;
     flex-direction: column;
-    align-items:center;
-    margin-block: 16.5vh;
+    align-items: center;
+    margin-block: 12.5vh;
     margin-inline: auto;
     gap: 20px;
 }
@@ -193,6 +193,10 @@
     width: 25px;
     border-radius: 50px;
     color: var(--bw-nav-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(35%, -20%);
 }
 
 
@@ -209,14 +213,16 @@ body.no-scroll {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap:15px;
+    gap: 15px;
 }
-.performance-modal-icon{
-    width:clamp(50px, 5vw, 90px);
+
+.performance-modal-icon {
+    width: clamp(50px, 5vw, 90px);
 }
-.performance-factors{
-    list-style:none;
-    letter-spacing:1px;
+
+.performance-factors {
+    list-style: none;
+    letter-spacing: 1px;
 }
 
 .modal-btn {
@@ -235,7 +241,7 @@ body.no-scroll {
         color: var(--bw-yellow);
     }
 
-ul.performance-factors li{
+ul.performance-factors li {
     margin-bottom: 5px;
 }
 
@@ -247,13 +253,24 @@ ul.performance-factors li{
 .non-verbal-question-wrapper {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
     justify-content: center;
     gap: 25px;
     padding: 20px;
-    font-weight:700;
+    font-weight: 700;
 }
 
+.non-verbal-question-wrapper-wide {
+    flex-direction:column;
+    align-items:center;
+}
+
+.nonVerbal-question-2 {
+    width: clamp(290px, 25vw, 750px);
+}
+
+img.nonVerbal-option {
+    width: clamp(75px, 5vw, 100px);
+}
 .nonverbal-answers-wrapper {
     display: flex;
     flex-direction: row;
@@ -317,7 +334,7 @@ ul.performance-factors li{
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap:5px;
+    gap: 5px;
 }
 
 input#answer {
@@ -334,6 +351,7 @@ input#answer {
         font-size: clamp(14px, 2vw, 20px);
         border-radius: 1px;
     }
+
 .input-answer-option h3 {
     font-size: clamp(14px, 2vw, 20px);
 }

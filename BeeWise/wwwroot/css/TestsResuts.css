@@ -4,8 +4,8 @@
     align-items: center;
     gap: 30px;
     padding: 15px;
-    text-align: center;
-    margin-block:10px
+    text-align: center; 
+    margin-block: 10px
 }
 
 .user-verbal-test-score {
@@ -14,6 +14,10 @@
 
 .math-verbal-test-score {
     color: var(--bw-blue);
+}
+
+.non-verbal-user-score {
+    color: var(--bw-green)
 }
 
 .user-iq-level {
@@ -26,6 +30,7 @@
     color: var(--bw-orange);
     font-weight: 800;
 }
+
 ul.feedback-list {
     text-align: start;
     width: clamp(220px, 24vw, 500px);
@@ -35,9 +40,9 @@ ul.feedback-list {
         margin-bottom: 10px;
     }
 
-    img.hexagon-skills {
-        width: clamp(180px, 23vw, 435px);
-    }
+img.hexagon-skills {
+    width: clamp(180px, 23vw, 435px);
+}
 
 img.fireworks {
     position: absolute;
@@ -50,11 +55,11 @@ img.fireworks {
     color: var(--bw-orange);
 }
 
-.button-container{
-    display:flex;
-    flex-direction:row;
-    position:relative;
-    gap:25px;
+.button-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    gap: 25px;
 }
 
 #home-btn {
@@ -99,6 +104,13 @@ img.fireworks {
     font-size: 9px;
     font-style: italic;
 }
+
+@media (max-width: 500px) {
+    .retake-test-condition {
+        left: 3%;
+    }
+}
+
 #next-level-test {
     background-color: var(--bw-orange);
     color: var(--bw-black);
@@ -115,5 +127,3 @@ img.fireworks {
         background-color: var(--bw-black);
         color: var(--bw-yellow);
     }
-
-

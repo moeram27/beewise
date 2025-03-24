@@ -26,7 +26,12 @@ wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-1.png
 wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-2.png
 wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-3.png
 wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-4.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-5.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-6.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-7.png
+wwwroot\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-8.png
 wwwroot\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-1.png
+wwwroot\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-2.png
 wwwroot\Assets\Images\scorers\scorer1.png
 wwwroot\Assets\Images\scorers\scorer2.png
 wwwroot\Assets\Images\scorers\top-scorer.png

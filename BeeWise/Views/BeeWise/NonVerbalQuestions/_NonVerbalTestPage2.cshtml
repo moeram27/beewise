@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "NonVerbalTests";
+}
+
+
+<div>
+
+    <section class="question-page">
+        <h3 class="question-page-title">NON VERBAL IQ TESTS</h3>
+
+        <div class="question-timer">
+            <p>2:10</p>
+        </div>
+        <div class="timebar">
+            <div class="elapsed-time">
+            </div>
+        </div>
+
+        <h4 class="question-counter">
+            Question 2/20
+        </h4>
+
+        <p class="survey-question">
+            Identify the missing objects
+        </p>
+
+        <div class="non-verbal-question-wrapper non-verbal-question-wrapper-wide">
+            <div class="question-image">
+                <img class="nonVerbal-question-2" src="@Url.Content("~/Assets/Images/NonVerbalIqTests/TestQuestions/non-verbal-iq-question-2.png")" alt="">
+            </div>
+            <div class="nonverbal-answers-wrapper">
+                <div class="nonVerbal-answer-option">
+                    <span>
+                        1
+                    </span>
+                    <img class="nonVerbal-option" src="@Url.Content("~/Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-5.png")" alt="">
+                </div>
+                <div class="nonVerbal-answer-option">
+                    <span>
+                        2
+                    </span>
+                    <img class="nonVerbal-option" src="@Url.Content("~/Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-6.png")" alt="">
+                </div>
+                <div class="nonVerbal-answer-option">
+                    <span>
+                        3
+                    </span>
+                    <img class="nonVerbal-option" src="@Url.Content("~/Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-7.png")" alt="">
+                </div>
+                <div class="nonVerbal-answer-option">
+                    <span>
+                        4
+                    </span>
+                    <img class="nonVerbal-option" src="@Url.Content("~/Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-8.png")" alt="">
+
+                </div>
+            </div>
+        </div>
+
+        <a asp-controller="BeeWise" asp-action="NonVerbalResults" class="home-redirect">
+            <button id="results-btn">
+                Get Results
+            </button>
+        </a>
+    </section>
+
+
+</div>

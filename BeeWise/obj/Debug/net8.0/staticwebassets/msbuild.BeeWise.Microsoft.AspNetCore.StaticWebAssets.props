@@ -504,6 +504,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-4.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-5.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-5.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fjr4rdky90</Fingerprint>
+      <Integrity>a3P8GtJF36RMXbRq8kLvodgNg37yXFyXRsMP8blQCA8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-5.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-6.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-6.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qplccpz8hw</Fingerprint>
+      <Integrity>Ekfnv3FIgtGh7IFIVfYB+7n32aWutEbVn0NgpnH9mSs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-6.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-7.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-7.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>p8um3pj08m</Fingerprint>
+      <Integrity>Z6YqMbL5cXjbfIV2QNHi9ZG73BDLCitcq2KocYmkAVA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-7.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-8.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/NonVerbalIqTests/AnswerOptions/non-verbal-option-8.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wxebldygkz</Fingerprint>
+      <Integrity>nDYvCOCb2a2EekWV49CEC5sdMjPQtZUBxjW0QH8hPkE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\AnswerOptions\non-verbal-option-8.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-1.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BeeWise</SourceId>
@@ -521,6 +593,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-2.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BeeWise</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BeeWise</BasePath>
+      <RelativePath>Assets/Images/NonVerbalIqTests/TestQuestions/non-verbal-iq-question-2.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0psexcu6ly</Fingerprint>
+      <Integrity>xFked0iVSO8kPK3ssYbvxAC18wNRrDIPvLKF4Cu5DZY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\NonVerbalIqTests\TestQuestions\non-verbal-iq-question-2.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\Images\scorers\scorer1.png'))">
       <SourceType>Package</SourceType>
@@ -894,8 +984,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l5v5pazogy</Fingerprint>
-      <Integrity>+X28xFH8BMwkEp0yQC+Ruz18NmsRzHB+ozIWWMpYNSI=</Integrity>
+      <Fingerprint>fqjo920r51</Fingerprint>
+      <Integrity>5yrXKqrd4WhSCeCo3Azwx7BmLbK8h6nJUU+skES89bw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</OriginalItemSpec>
@@ -912,8 +1002,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2xwo89cx6v</Fingerprint>
-      <Integrity>pohLtOxCwls3cuhSNoX1vFwGgc4FWN3i0Ss1P2X8U28=</Integrity>
+      <Fingerprint>6teddbw7cu</Fingerprint>
+      <Integrity>OoX1esfZbEhJgSgXfWl1lGzrKQ8kXO8pFDGwLrhgLtg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\lang-menu.css'))</OriginalItemSpec>
@@ -930,8 +1020,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5x5a0kko0i</Fingerprint>
-      <Integrity>eUzH6YWOvHki+yoPVlq3Zr5CwxOOtABtpBHhATdIZx8=</Integrity>
+      <Fingerprint>d67extzic4</Fingerprint>
+      <Integrity>1SCobSSEjJZf7ZG/Zi9TQR/xkTzKFTyerCMvQqsDFTY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login\login.css'))</OriginalItemSpec>
@@ -966,8 +1056,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sx0iofaku1</Fingerprint>
-      <Integrity>wNbmf5mtEYnOlQ+DGsY5SVIyly57rRXH5WIOGpns5To=</Integrity>
+      <Fingerprint>ronbgfhneu</Fingerprint>
+      <Integrity>VTdg/niWNE7CyfbY/PNreZS/JoAkJu198zncSeColLE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -1002,8 +1092,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qn7x8hd3zi</Fingerprint>
-      <Integrity>+t78XosXJQXSCiuGxBxli8yN1TJirCI5Yialke+HczE=</Integrity>
+      <Fingerprint>t5rt65kumg</Fingerprint>
+      <Integrity>PxeNQvacCzDW42/vu4og/EYGGbEDK9omEqVKaLBIMfE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\survey-pages.css'))</OriginalItemSpec>
@@ -1020,8 +1110,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1y58y3oax7</Fingerprint>
-      <Integrity>5+HNXgIgxAmVriHYPfrpZUoLjE1gZ1hXBOGoNLj7CPU=</Integrity>
+      <Fingerprint>ia59ji8nh7</Fingerprint>
+      <Integrity>9sE1p6LZMEKsEctT6kWkFQqg4QIUSA/DKu4ALGlOIFc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\TestsResuts.css'))</OriginalItemSpec>
@@ -1038,8 +1128,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yk9wi53pza</Fingerprint>
-      <Integrity>gu7V/iBPul5lKpp8+PRSLxDKcRZxDBFA8aHG8WhnqW4=</Integrity>
+      <Fingerprint>pdrfkuiki8</Fingerprint>
+      <Integrity>XSQZfk1RA6pow8GzN/4zvFxXl/Y26GKiEJjqcGP6+2M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>

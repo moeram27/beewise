@@ -48,12 +48,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxNYXRoUXVlc3Rpb25zXF9NYXRoUXVlc3Rpb25QYWdlMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/NonVerbalResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxOb25WZXJiYWxRdWVzdGlvbnNcTm9uVmVyYmFsUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/NonVerbalTests.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxOb25WZXJiYWxRdWVzdGlvbnNcTm9uVmVyYmFsVGVzdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/_NonVerbalTestPage1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxOb25WZXJiYWxRdWVzdGlvbnNcX05vblZlcmJhbFRlc3RQYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/src/BeeWise/BeeWise/Views/BeeWise/NonVerbalQuestions/_NonVerbalTestPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlV2lzZVxOb25WZXJiYWxRdWVzdGlvbnNcX05vblZlcmJhbFRlc3RQYWdlMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/src/BeeWise/BeeWise/Views/BeeWise/SubCategories.cshtml]

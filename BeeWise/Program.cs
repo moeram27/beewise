@@ -24,7 +24,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapGet("/", () => Results.Redirect("/account/login"));
 
 app.MapControllerRoute(
     name: "default",

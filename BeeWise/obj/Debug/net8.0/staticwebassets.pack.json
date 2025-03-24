@@ -25,8 +25,28 @@
       "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-4.png"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-5.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-5.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-6.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-6.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-7.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-7.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-8.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\AnswerOptions\\non-verbal-option-8.png"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-1.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-1.png"
+    },
+    {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-2.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\NonVerbalIqTests\\TestQuestions\\non-verbal-iq-question-2.png"
     },
     {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\TestResults\\fireworks-animation.gif",

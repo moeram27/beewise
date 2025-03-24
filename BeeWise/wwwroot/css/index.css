@@ -43,7 +43,7 @@ h5.disocver-disclaimer {
     flex-wrap: wrap;
     justify-content: center;
     padding-top: 30px;
-    padding-inline:20px;
+    padding-inline: 20px;
     gap: clamp(15px, 1.5vw, 50px);
 }
 
@@ -166,18 +166,18 @@ p.category-title {
 
 .info-modal-content {
     background: white;
-    padding: 20px 35px;
+    padding: 10px 35px;
     text-align: left;
-    width: clamp(270px, 35vw, 665px);
-    max-height: 80vh;
+    width: clamp(270px, 50vw, 750px);
+    max-height: 110vh;
     overflow-y: auto;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
     position: relative;
     display: flex;
-    margin-block: 13vh;
+    margin-block: 1vh;
     margin-inline: auto;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
 }
 
 .modal-title {
@@ -197,6 +197,9 @@ p.category-title {
     width: 25px;
     border-radius: 50px;
     color: var(--bw-nav-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -419,6 +422,7 @@ h5.scorer-iq-name {
     margin-top: 50px;
     border: 1.5px solid var(--bw-black);
     width: clamp(180px, 25vw, 265px);
+    margin-left: 15px;
 }
 
     .service-info-swiper .swiper-slide:last-child {
@@ -492,6 +496,7 @@ img.service-icon {
     justify-content: center;
     gap: 15px;
     margin-top: 20px;
+    padding-inline: 20%;
 }
 
 .pricing-card {
@@ -499,7 +504,7 @@ img.service-icon {
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-height: clamp(340px, 22vw, 410px);
+    min-height: clamp(370px, 22vw, 410px);
     width: clamp(300px, 18vw, 270px);
     padding: 10px 15px;
     border: 2px solid var(--bw-black);
@@ -561,6 +566,12 @@ button.plan-button {
     background-color: var(--bw-black);
     color: var(--bw-white);
     transform: scale(1.05);
+}
+
+@media (max-width:460px) {
+    .premium-pricing-card {
+        transform: unset;
+    }
 }
 
 .price-drop {

@@ -58,10 +58,12 @@
         <div class="sidebar-backdrop">
             <div class="sidebar-wrapper">
                 <div class="sidebar-redirections">
-                    <div class="sidebar-option">
-                        <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-idcon-beehive.png")" alt="">
-                        <p>Home</p>
-                    </div>
+                    <a asp-controller="BeeWise" asp-action="" class="home-redirect">
+                        <div class="sidebar-option" id="home-link">
+                            <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-idcon-beehive.png")" alt="">
+                            <p>Home</p>
+                        </div>
+                    </a>
                     <div class="sidebar-option">
                         <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-1.png")" alt="">
                         <p>Leaderboard</p>
@@ -70,14 +72,14 @@
                         <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-2.png")" alt="">
                         <p>My Profile</p>
                     </div>
-                    <div class="sidebar-option">
+                    @*                     <div class="sidebar-option">
                         <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-3.png")" alt="">
                         <p>Unsubscribe</p>
                     </div>
                     <div class="sidebar-option">
                         <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-4.png")" alt="">
                         <p>Packages</p>
-                    </div>
+                    </div> *@
                     <div class="sidebar-option">
                         <img class="sidebar-icon" src="@Url.Content("~/Assets/Images/sidebar-icons/sidebar-icon-5.png")" alt="">
                         <p>Privacy Policy</p>

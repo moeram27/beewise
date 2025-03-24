@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\dev\\src\\BeeWise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\subcategories.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\subcategories.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\login\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\login\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\lang-menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\lang-menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\testsresuts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\testsresuts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\nonverbalquestions\\nonverbalresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\nonverbalquestions\\nonverbalresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\nonverbalquestions\\nonverbaltests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\nonverbalquestions\\nonverbaltests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\survey-pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\survey-pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\controllers\\beewisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\controllers\\beewisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\nonverbalquestions\\_nonverbaltestpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\nonverbalquestions\\_nonverbaltestpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\account\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\account\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\nonverbalquestions\\_nonverbaltestpage2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\nonverbalquestions\\_nonverbaltestpage2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\login\\op-login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\login\\op-login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,56 +83,8 @@
       "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\account\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\account\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\lang-menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\lang-menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\login\\op-login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\login\\op-login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\verbalquestions\\_surveypage3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\verbalquestions\\_surveypage3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\nonverbalquestions\\nonverbaltests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\nonverbalquestions\\nonverbaltests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\controllers\\beewisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\controllers\\beewisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\mathquestions\\mathtests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\views\\beewise\\mathquestions\\mathtests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|solutionrelative:beewise\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB351B6B-422E-4864-A2D4-27DEA7E5922F}|BeeWise\\BeeWise.csproj|c:\\dev\\src\\beewise\\beewise\\views\\beewise\\mathquestions\\_mathquestionpage2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,73 +106,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LoginLayout.cshtml",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Account\\_LoginLayout.cshtml",
-              "RelativeDocumentMoniker": "BeeWise\\Views\\Account\\_LoginLayout.cshtml",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Account\\_LoginLayout.cshtml",
-              "RelativeToolTip": "BeeWise\\Views\\Account\\_LoginLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T13:34:30.206Z",
+              "DocumentIndex": 2,
+              "Title": "subcategories.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\subcategories.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\subcategories.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\subcategories.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\subcategories.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T14:23:50.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LogIn.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Account\\LogIn.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\Account\\LogIn.cshtml",
               "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Account\\LogIn.cshtml",
               "RelativeToolTip": "BeeWise\\Views\\Account\\LogIn.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAawBsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T13:34:58.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NonVerbalTests.cshtml",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
-              "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
-              "RelativeToolTip": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "NonVerbalResults.cshtml",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalResults.cshtml",
+              "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalResults.cshtml",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalResults.cshtml",
+              "RelativeToolTip": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T12:48:43.467Z"
+              "WhenOpened": "2025-03-21T11:49:50.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
+              "Title": "_NonVerbalTestPage2.cshtml",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage2.cshtml",
+              "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage2.cshtml",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage2.cshtml",
+              "RelativeToolTip": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:50:05.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.css",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\index.css",
               "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\index.css",
               "RelativeToolTip": "BeeWise\\wwwroot\\css\\index.css",
-              "ViewState": "AgIAAI4BAAAAAAAAAAAgwOEBAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T12:20:51.971Z"
+              "WhenOpened": "2025-03-19T12:20:51.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
+              "Title": "survey-pages.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-pages.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\survey-pages.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\survey-pages.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\survey-pages.css",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAMYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T11:00:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NonVerbalTests.cshtml",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
+              "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
+              "RelativeToolTip": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\NonVerbalTests.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T12:48:43.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACEBAAAAAAAAAAAkwDcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T14:44:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\Index.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\Index.cshtml",
               "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\Index.cshtml",
               "RelativeToolTip": "BeeWise\\Views\\BeeWise\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T07:41:11.408Z"
+              "WhenOpened": "2025-02-18T07:41:11.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
+              "Title": "TestsResuts.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\TestsResuts.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\TestsResuts.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\TestsResuts.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\TestsResuts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T11:47:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lang-menu.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\lang-menu.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\lang-menu.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\lang-menu.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\lang-menu.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T12:25:49.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\login.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\login\\login.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\login.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\login\\login.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T14:12:46.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Account\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "BeeWise\\Views\\Account\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Account\\_LoginLayout.cshtml",
+              "RelativeToolTip": "BeeWise\\Views\\Account\\_LoginLayout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T13:34:30.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_NonVerbalTestPage1.cshtml",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage1.cshtml",
+              "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage1.cshtml",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage1.cshtml",
+              "RelativeToolTip": "BeeWise\\Views\\BeeWise\\NonVerbalQuestions\\_NonVerbalTestPage1.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:49:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BeeWiseController.cs",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Controllers\\BeeWiseController.cs",
+              "RelativeDocumentMoniker": "BeeWise\\Controllers\\BeeWiseController.cs",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Controllers\\BeeWiseController.cs",
+              "RelativeToolTip": "BeeWise\\Controllers\\BeeWiseController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:49:57.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "op-login.css",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\op-login.css",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\login\\op-login.css",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\op-login.css",
+              "RelativeToolTip": "BeeWise\\wwwroot\\css\\login\\op-login.css",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T14:01:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_MathQuestionPage1.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\MathQuestions\\_MathQuestionPage1.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\MathQuestions\\_MathQuestionPage1.cshtml",
@@ -164,72 +330,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BeeWise\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T07:48:40.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T07:48:40.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "lang-menu.css",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\lang-menu.css",
-              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\lang-menu.css",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\lang-menu.css",
-              "RelativeToolTip": "BeeWise\\wwwroot\\css\\lang-menu.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T12:25:49.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_SurveyPage3.cshtml",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\VerbalQuestions\\_SurveyPage3.cshtml",
-              "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\VerbalQuestions\\_SurveyPage3.cshtml",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\VerbalQuestions\\_SurveyPage3.cshtml",
-              "RelativeToolTip": "BeeWise\\Views\\BeeWise\\VerbalQuestions\\_SurveyPage3.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T10:18:49.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Program.cs",
               "RelativeDocumentMoniker": "BeeWise\\Program.cs",
               "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Program.cs",
               "RelativeToolTip": "BeeWise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:08:37.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:08:37.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.css",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\login.css",
-              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\login\\login.css",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\login.css",
-              "RelativeToolTip": "BeeWise\\wwwroot\\css\\login\\login.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T14:12:46.727Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BeeWise\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T11:35:59.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\_ViewStart.cshtml",
@@ -237,49 +374,11 @@
               "RelativeToolTip": "BeeWise\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:00:46.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:00:46.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "op-login.css",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\op-login.css",
-              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\css\\login\\op-login.css",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\css\\login\\op-login.css",
-              "RelativeToolTip": "BeeWise\\wwwroot\\css\\login\\op-login.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T14:01:51.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "BeeWise\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "BeeWise\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:35:28.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BeeWiseController.cs",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Controllers\\BeeWiseController.cs",
-              "RelativeDocumentMoniker": "BeeWise\\Controllers\\BeeWiseController.cs",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\Controllers\\BeeWiseController.cs",
-              "RelativeToolTip": "BeeWise\\Controllers\\BeeWiseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:12:09.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "MathTests.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\MathQuestions\\MathTests.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\MathQuestions\\MathTests.cshtml",
@@ -291,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "_MathQuestionPage2.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\MathQuestions\\_MathQuestionPage2.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\MathQuestions\\_MathQuestionPage2.cshtml",
@@ -303,19 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "BeeWise\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "BeeWise\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-18T11:35:59.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "_SurveyPage1.cshtml",
               "DocumentMoniker": "C:\\dev\\src\\BeeWise\\BeeWise\\Views\\BeeWise\\VerbalQuestions\\_SurveyPage1.cshtml",
               "RelativeDocumentMoniker": "BeeWise\\Views\\BeeWise\\VerbalQuestions\\_SurveyPage1.cshtml",
