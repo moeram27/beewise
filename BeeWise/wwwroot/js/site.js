@@ -86,8 +86,6 @@ $(document).ready(function () {
     });
 });
 
-//function for the sidebar option to stay on:
-
 document.addEventListener("DOMContentLoaded", function () {
     const currentPath = window.location.pathname;
     const homeLink = document.getElementById('home-link');

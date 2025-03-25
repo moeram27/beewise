@@ -17,6 +17,7 @@ wwwroot\Assets\Images\leaderboard-icons\top-scorer-icon.png
 wwwroot\Assets\Images\list-icons\list-check-icon.png
 wwwroot\Assets\Images\list-icons\list-check-icon-premium.png
 wwwroot\Assets\Images\login\login-background.png
+wwwroot\Assets\Images\login\mobile-login-background.png
 wwwroot\Assets\Images\logos\Group 8.png
 wwwroot\Assets\Images\logos\inline-logo.png
 wwwroot\Assets\Images\logos\logo.png

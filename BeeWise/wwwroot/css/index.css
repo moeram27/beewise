@@ -142,7 +142,7 @@ p.category-title {
 }
 
 .info-icon {
-    margin-right: 2px;
+    margin-right: 7px;
 }
 
 
@@ -224,7 +224,7 @@ body.no-scroll {
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
-    row-gap: 15px;
+    row-gap: 25px;
 }
 
     .leaderboard-section p {
@@ -429,6 +429,8 @@ h5.scorer-iq-name {
         margin-inline-end: 40px;
     }
 
+
+
 .info-card {
     background-color: var(--bw-white);
     display: flex;
@@ -436,14 +438,21 @@ h5.scorer-iq-name {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    padding-inline: 2px;
-    height: 100px;
+    padding-inline: 10px;
+    height: 125px;
+}
+
+@media (max-width:760px) {
+    .info-card {
+        padding-inline: 2px;
+        height: 100px;
+    }
 }
 
 .icon-container {
     background-color: var(--bw-blue);
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -454,7 +463,7 @@ h5.scorer-iq-name {
 }
 
 img.service-icon {
-    width: 70%;
+    width: 65%;
     transform: rotate(-45deg);
 }
 
@@ -463,11 +472,14 @@ img.service-icon {
     overflow: hidden;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
-    font-size: clamp(12px, 4vw, 14px);
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    font-size: clamp(12px, 1.5vw, 15px);
 }
 
 .service-info h5 {
-    font-size: clamp(16px, 5vw, 19px);
+    margin-top: 10px;
+    font-size: clamp(16px, 3vw, 19px);
     font-weight: 700;
 }
 
@@ -496,7 +508,12 @@ img.service-icon {
     justify-content: center;
     gap: 15px;
     margin-top: 20px;
-    padding-inline: 20%;
+}
+
+@media screen and (min-width: 600px) and (max-width:930px) {
+    .pricing-cards-wrapper {
+        padding-inline: 20%;
+    }
 }
 
 .pricing-card {

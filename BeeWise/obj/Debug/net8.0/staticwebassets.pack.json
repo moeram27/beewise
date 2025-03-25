@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\Assets\\Images\\login\\login-background.png"
     },
     {
+      "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\login\\mobile-login-background.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\login\\mobile-login-background.png"
+    },
+    {
       "Id": "C:\\dev\\src\\BeeWise\\BeeWise\\wwwroot\\Assets\\Images\\logos\\Group 8.png",
       "PackagePath": "staticwebassets\\Assets\\Images\\logos\\Group 8.png"
     },
